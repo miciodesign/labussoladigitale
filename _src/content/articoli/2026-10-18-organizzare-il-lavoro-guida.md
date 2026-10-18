@@ -24,11 +24,11 @@ Un modulo ti evita le email "quanto costa?" senza dettagli: chiedi subito cosa s
 
 | Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
-| Tally | Gratuito con moduli e invii illimitati; Pro 24 $/mese | Chi vuole partire gratis senza limiti di risposte | Prezzi solo in dollari; il branding si toglie solo con Pro |
+| [Tally](https://tally.so/) | Gratuito con moduli e invii illimitati; Pro 24 $/mese | Chi vuole partire gratis senza limiti di risposte | Prezzi solo in dollari; il branding si toglie solo con Pro |
 | Typeform | Basic 28 $/mese annuale (39 $ mensile), 100 risposte al mese | Chi vuole un modulo bello da vedere, una domanda alla volta | Il limite di risposte è basso e il salto di piano è costoso |
 | Jotform | Piano Starter gratuito; a pagamento "a partire da 19 $ al mese" | Chi vuole moduli complessi, con pagamenti e PDF generati | Il listino completo non è leggibile in pagina: verifica prima di pagare |
 
-**Tally** è il caso raro in cui il piano gratuito è davvero completo: moduli e invii illimitati, logica condizionale, calcoli, pagamenti, upload file, integrazioni con Google Sheets, Notion, Zapier e Make. Il Pro costa 24 $ al mese (solo in dollari, due mesi scontati con pagamento annuale, prezzo rilevato il 18 ottobre 2026) e serve per togliere il marchio, usare un dominio tuo e lavorare in team. Per un freelance è la scelta di default.
+**[Tally](https://tally.so/)** è il caso raro in cui il piano gratuito è davvero completo: moduli e invii illimitati, logica condizionale, calcoli, pagamenti, upload file, integrazioni con Google Sheets, Notion, Zapier e Make. Il Pro costa 24 $ al mese (solo in dollari, due mesi scontati con pagamento annuale, prezzo rilevato il 18 ottobre 2026) e serve per togliere il marchio, usare un dominio tuo e lavorare in team. Per un freelance è la scelta di default.
 
 **Typeform** ha l'esperienza più curata: una domanda per schermata, ottima su mobile. Costa però molto di più: il Basic parte da 28 $ al mese con fatturazione annuale o 39 $ mensile e include 100 risposte al mese per un utente; il Plus sale a 56 $ al mese annuale (79 $ mensile) con 1.000 risposte e 3 utenti. Prezzi in dollari, rilevati il 18 ottobre 2026. Esiste un piano gratuito ma la pagina prezzi non ne dichiara i limiti. Ha senso se il modulo è parte della tua immagine.
 

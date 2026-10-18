@@ -34,7 +34,7 @@ I criteri per scegliere sono pochi: il costo annuo reale (non il prezzo promozio
 | **Revolut Business** | Basic 10 €/mese; Grow 35 €/mese | Chi vuole carte, cambio valuta e pagamenti online in un'app | La pagina non specifica se i prezzi includono l'IVA |
 | **SumUp** (incassi) | Solo Lite 34 € + IVA, Solo 79 € + IVA; 1,95% a transazione; link di pagamento 2,50%, senza canone | Chi incassa di persona o vuole un link da mandare su WhatsApp | Il 2,50% sui link pesa su importi alti |
 | **Stripe** | 1,5% + 0,25 € carte SEE; 3,15% + 0,25 € carte internazionali; nessun canone | Chi vende online o manda link a clienti anche esteri | Serve un minimo di dimestichezza con la dashboard |
-| **Tally** (moduli) | Gratis; Pro 24 USD/mese (in dollari) | Modulo di richiesta preventivo, questionari ai clienti | Branding Tally visibile sul piano gratuito |
+| **[Tally](https://tally.so/)** (moduli) | Gratis; Pro 24 USD/mese (in dollari) | Modulo di richiesta preventivo, questionari ai clienti | Branding Tally visibile sul piano gratuito |
 | **Youtrust (ex Yousign)** (firma) | Free con 2 richieste di firma al mese; One 9 €/mese + IVA | Far firmare preventivi e contratti | Il piano Free basta solo a chi firma poco |
 
 ## Gli strumenti uno per uno
