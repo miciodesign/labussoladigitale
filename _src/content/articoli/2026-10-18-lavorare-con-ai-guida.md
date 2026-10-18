@@ -73,12 +73,12 @@ Qui la verità è scomoda: per scrivere e correggere in italiano, ChatGPT, Claud
 
 | Strumento | Prezzo rilevato | Per chi | Attenzione a |
 | --- | --- | --- | --- |
-| Submagic | Prova gratuita; Starter 19 €/mese, o 12 €/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026, prezzo in euro mostrato sul sito) | Chi pubblica video brevi sui social e vuole sottotitoli animati | Starter copre 15 video al mese da massimo 2 minuti |
+| [Submagic](https://submagic.co/) | Prova gratuita; Starter 19 €/mese, o 12 €/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026, prezzo in euro mostrato sul sito) | Chi pubblica video brevi sui social e vuole sottotitoli animati | Starter copre 15 video al mese da massimo 2 minuti |
 | Descript | Free (1 ora di media al mese, export 720p con filigrana); Hobbyist 16 $/mese con pagamento annuale, o 24 $/mese (prezzo rilevato il 18 ottobre 2026) | Chi monta podcast e video tagliando il testo della trascrizione | La pagina non etichetta in modo esplicito quale dei due prezzi è il mensile |
 | InVideo | Nessun piano gratuito indicato; Starter 20 $/mese, o 10 $/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Chi vuole generare video da un testo per social e presentazioni | I limiti sono in crediti, non in minuti: difficile prevedere quanti video farai |
 | Synthesia | Basic gratuito (10 minuti); Starter 29 $/mese (prezzo rilevato il 18 ottobre 2026) | Formazione interna e video con avatar parlante | Starter arriva a circa 12 minuti al mese: poco per un uso frequente |
 
-**Descript** è il più utile per chi lavora davvero con audio e video: tagli la registrazione come fosse un documento di testo. **Submagic** fa una cosa sola, i sottotitoli per video brevi, e la fa in fretta. **Synthesia** serve a chi produce video formativi e non vuole mettersi davanti alla telecamera; se è il tuo caso, guarda anche la sezione [insegnare quello che sai](/insegnare-quello-che-sai/).
+**Descript** è il più utile per chi lavora davvero con audio e video: tagli la registrazione come fosse un documento di testo. **[Submagic](https://submagic.co/)** fa una cosa sola, i sottotitoli per video brevi, e la fa in fretta. **Synthesia** serve a chi produce video formativi e non vuole mettersi davanti alla telecamera; se è il tuo caso, guarda anche la sezione [insegnare quello che sai](/insegnare-quello-che-sai/).
 
 ### Chatbot per clienti
 
