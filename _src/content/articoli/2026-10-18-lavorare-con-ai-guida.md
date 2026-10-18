@@ -52,11 +52,11 @@ Un assistente generale non registra le riunioni al posto tuo, non monta video e 
 
 | Strumento | Prezzo rilevato | Per chi | Attenzione a |
 | --- | --- | --- | --- |
-| Fireflies | Free (400 minuti di archivio per team); Pro 10 $/utente/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Chi fa molte call su Zoom, Meet o Teams e vuole trascrizioni e riepiloghi | Il prezzo mensile non era visibile nel testo della pagina; registrazioni fino a 2 ore su Free e Pro |
+| [Fireflies](https://fireflies.ai/) | Free (400 minuti di archivio per team); Pro 10 $/utente/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Chi fa molte call su Zoom, Meet o Teams e vuole trascrizioni e riepiloghi | Il prezzo mensile non era visibile nel testo della pagina; registrazioni fino a 2 ore su Free e Pro |
 | Otter.ai | Basic gratuito (300 minuti/mese, 30 minuti a conversazione); Pro 16,99 $/utente/mese, o 8,33 $/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Chi vuole provare senza pagare e ha riunioni brevi | Il limite di 30 minuti del gratuito taglia le riunioni lunghe; la qualità in italiano va provata |
 | tl;dv | Piano "Free Forever" dichiarato sul sito; prezzi dei piani a pagamento non verificati | Chi usa soprattutto Meet e Zoom | La pagina prezzi non era accessibile al momento della verifica: controlla prima di iscriverti |
 
-**Fireflies** è la scelta più equilibrata per chi lavora con clienti: il bot entra in call, trascrive e manda un riepilogo. **Otter.ai** ha il gratuito più generoso per iniziare, ma i 30 minuti per conversazione lo rendono poco pratico per le riunioni vere. Per tutti e tre vale la stessa regola: avvisa sempre i partecipanti che la riunione viene registrata.
+**[Fireflies](https://fireflies.ai/)** è la scelta più equilibrata per chi lavora con clienti: il bot entra in call, trascrive e manda un riepilogo. **Otter.ai** ha il gratuito più generoso per iniziare, ma i 30 minuti per conversazione lo rendono poco pratico per le riunioni vere. Per tutti e tre vale la stessa regola: avvisa sempre i partecipanti che la riunione viene registrata.
 
 ### Scrivere e correggere
 
