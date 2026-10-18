@@ -14,13 +14,13 @@ Stato: [ ] da scrivere · [x] pubblicato
 
 ## Guide di partenza (una per sezione) e Kit
 
-- [ ] 0 P Kit di partenza per chi apre partita IVA: gli strumenti essenziali in una pagina · fatturare-e-incassare (pillar)
-- [ ] 1 I Fatturare e incassare da partita IVA: software, conto, pagamenti · fatturare-e-incassare
-- [ ] 2 I Farsi trovare e vendere senza agenzia: sito, email, CRM · vendere-e-farsi-trovare (pillar)
-- [ ] 3 I Organizzare il lavoro da soli o in pochi: firma, moduli, progetti, automazioni · organizzare-il-lavoro (pillar)
-- [ ] 4 I Vendere un corso online: piattaforme, costi, margini · insegnare-quello-che-sai (pillar)
-- [ ] 5 I Lavorare con l'AI senza perdere tempo: gli strumenti che servono davvero · lavorare-con-l-ai (pillar)
-- [ ] 6 I Imparare online nel 2026: piattaforme, lingue, certificazioni · imparare (pillar)
+- [x] 0 P Kit di partenza per chi apre partita IVA: gli strumenti essenziali in una pagina · fatturare-e-incassare (pillar)
+- [x] 1 I Fatturare e incassare da partita IVA: software, conto, pagamenti · fatturare-e-incassare
+- [x] 2 I Farsi trovare e vendere senza agenzia: sito, email, CRM · vendere-e-farsi-trovare (pillar)
+- [x] 3 I Organizzare il lavoro da soli o in pochi: firma, moduli, progetti, automazioni · organizzare-il-lavoro (pillar)
+- [x] 4 I Vendere un corso online: piattaforme, costi, margini · insegnare-quello-che-sai (pillar)
+- [x] 5 I Lavorare con l'AI senza perdere tempo: gli strumenti che servono davvero · lavorare-con-l-ai (pillar)
+- [x] 6 I Imparare online nel 2026: piattaforme, lingue, certificazioni · imparare (pillar)
 
 ## Coda, in ordine di pubblicazione (3 a settimana: lunedì, mercoledì, venerdì)
 
