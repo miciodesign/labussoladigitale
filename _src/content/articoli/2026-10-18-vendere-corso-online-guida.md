@@ -39,7 +39,7 @@ Tutti i prezzi qui sotto sono in dollari, perché i produttori li pubblicano cos
 
 | Strumento | Prezzo rilevato | Per chi | Attenzione a |
 | --- | --- | --- | --- |
-| **systeme.io** | Piano Free (1 corso, 2.000 contatti); Startup 17 $/mese; 0% commissioni | Chi parte da zero | Interfaccia meno curata, player video basilare |
+| **[systeme.io](https://systeme.io/)** | Piano Free (1 corso, 2.000 contatti); Startup 17 $/mese; 0% commissioni | Chi parte da zero | Interfaccia meno curata, player video basilare |
 | **Teachable** | Starter 29 $/mese (annuale) o 39 $/mese; 7,5% di commissione sul piano Starter; Builder 69 $/mese (annuale) con 0% | Chi vuole lo standard del settore | La commissione del 7,5% sul piano base |
 | **Thinkific** | Basic 40 $/mese (annuale) o 54 $/mese; prova 30 giorni, nessun piano gratuito | Chi vuole flessibilità sul design del corso | Commissione di gateway "variabile per piano" non pubblicata chiaramente |
 | **Podia** | Mover 42 $/mese (solo fatturazione annuale pubblicata), 5% di commissione; Shaker 84 $/mese con 0% | Chi vende anche ebook, download, coaching | Niente piano mensile pubblicato |

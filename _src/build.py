@@ -27,6 +27,7 @@ STATIC = SRC / "static"
 CONFIG = json.loads((SRC / "config.json").read_text(encoding="utf-8"))
 SITE_URL = CONFIG["site_url"].rstrip("/")
 AMAZON_TAG = CONFIG.get("amazon_tag", "").strip()
+AFFILIATE_LINKS = CONFIG.get("affiliate_links", {})
 
 MD = markdown.Markdown(
     extensions=["tables", "toc", "attr_list", "sane_lists", "md_in_html"],
@@ -82,6 +83,19 @@ def add_amazon_tag(html_out: str) -> str:
     return re.sub(r'href="(https?://(?:www\.)?amazon\.it[^"]*)"', repl, html_out)
 
 
+def apply_affiliate_links(html_out: str) -> str:
+    """Sostituisce i link ai produttori con il link di affiliazione, quando configurato.
+    La chiave in config.json è il dominio (es. "systeme.io"); vale per home e sottopagine."""
+    def repl(m: re.Match) -> str:
+        url = m.group(1)
+        host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+        for domain, aff in AFFILIATE_LINKS.items():
+            if host == domain or host.endswith("." + domain):
+                return f'href="{aff}"'
+        return m.group(0)
+    return re.sub(r'href="(https?://[^"]+)"', repl, html_out)
+
+
 def mark_external_links(html_out: str) -> str:
     return re.sub(
         r'<a href="(https?://(?!labussoladigitale\.it)[^"]+)"',
@@ -131,7 +145,7 @@ def load_articles() -> list[dict]:
         if meta.get("draft") == "true":
             continue
         html_body, toc = render_markdown(body)
-        html_body = mark_external_links(add_amazon_tag(html_body))
+        html_body = mark_external_links(apply_affiliate_links(add_amazon_tag(html_body)))
         cat = next(c for c in CONFIG["categories"] if c["slug"] == meta["category"])
         article = {
             **meta,

@@ -15,28 +15,46 @@
       "name": "Lavoro in proprio",
       "text": "Fatture, preventivi, clienti, sito: tutto quello che serve a una partita IVA per lavorare bene senza assumere nessuno.",
       "cta": "Inizia da qui",
-      "sezioni": ["fatturare-e-incassare", "vendere-e-farsi-trovare", "organizzare-il-lavoro", "lavorare-con-l-ai"]
+      "sezioni": [
+        "fatturare-e-incassare",
+        "vendere-e-farsi-trovare",
+        "organizzare-il-lavoro",
+        "lavorare-con-l-ai"
+      ]
     },
     {
       "slug": "piccola-azienda",
       "name": "Ho una piccola azienda",
       "text": "Strumenti per far lavorare insieme un team piccolo: CRM, automazioni, firma digitale, formazione interna.",
       "cta": "Vedi gli strumenti",
-      "sezioni": ["vendere-e-farsi-trovare", "organizzare-il-lavoro", "fatturare-e-incassare", "lavorare-con-l-ai"]
+      "sezioni": [
+        "vendere-e-farsi-trovare",
+        "organizzare-il-lavoro",
+        "fatturare-e-incassare",
+        "lavorare-con-l-ai"
+      ]
     },
     {
       "slug": "studio",
       "name": "Studio",
       "text": "App e servizi per studiare meglio e spendere meno: appunti, lingue, AI, corsi che valgono davvero.",
       "cta": "Scopri cosa usare",
-      "sezioni": ["imparare", "lavorare-con-l-ai", "organizzare-il-lavoro"]
+      "sezioni": [
+        "imparare",
+        "lavorare-con-l-ai",
+        "organizzare-il-lavoro"
+      ]
     },
     {
       "slug": "imparare-qualcosa-di-nuovo",
       "name": "Voglio imparare qualcosa di nuovo",
       "text": "Corsi online, certificazioni e piattaforme per imparare un mestiere, una lingua o una competenza digitale.",
       "cta": "Trova il corso",
-      "sezioni": ["imparare", "insegnare-quello-che-sai", "lavorare-con-l-ai"]
+      "sezioni": [
+        "imparare",
+        "insegnare-quello-che-sai",
+        "lavorare-con-l-ai"
+      ]
     }
   ],
   "categories": [
@@ -82,5 +100,8 @@
       "description": "Corsi online, piattaforme per le lingue e certificazioni riconosciute: dove investire tempo e soldi per imparare qualcosa di nuovo.",
       "intro": "Corsi online, piattaforme per le lingue, certificazioni che il mercato riconosce. In questa sezione aiutiamo a scegliere dove investire tempo e soldi per imparare qualcosa di nuovo, distinguendo tra quello che vale e quello che è solo un bel sito, con un occhio a chi studia e uno a chi deve aggiornarsi mentre lavora."
     }
-  ]
+  ],
+  "affiliate_links": {
+    "systeme.io": "https://systeme.io/?sa=sa02841875186251d6f94e5c4423b6163bfa6834ee"
+  }
 }

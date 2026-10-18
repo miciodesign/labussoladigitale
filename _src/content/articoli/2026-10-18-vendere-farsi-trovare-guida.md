@@ -31,7 +31,7 @@ Un sito vero (più pagine, un blog, schede servizio separate) serve se vuoi esse
 | SiteGround (WordPress, piano StartUp) | 2,99 €/mese promo su 12 mesi, rinnovo 15,99 €/mese | Chi vuole WordPress con assistenza di livello | Il rinnovo costa più di 5 volte il promo |
 | Wix (piano Light) | 17,77 $/mese, annuale | Chi vuole fare tutto da solo in un pomeriggio | Niente e-commerce nel piano base; prezzo in dollari |
 | Squarespace (piano Basic) | 19 $/mese annuale, 25 $/mese mensile | Chi vuole un sito bello senza toccare nulla | Commissione 2% sulle vendite; prezzo in dollari |
-| systeme.io (Free / Startup) | 0 $ / 17 $/mese | Chi vende corsi o servizi e vuole sito, email e pagamenti insieme | Meno libertà grafica; prezzo in dollari |
+| [systeme.io](https://systeme.io/) (Free / Startup) | 0 $ / 17 $/mese | Chi vende corsi o servizi e vuole sito, email e pagamenti insieme | Meno libertà grafica; prezzo in dollari |
 
 Tutti i prezzi sono IVA esclusa e rilevati il 18 ottobre 2026.
 
@@ -43,7 +43,7 @@ Tutti i prezzi sono IVA esclusa e rilevati il 18 ottobre 2026.
 
 **Squarespace** ha i template più curati e il piano Basic (19 $/mese annuale) include già la vendita di prodotti e servizi, ma trattiene il 2% sulle vendite (7% su contenuti digitali e membership) oltre alla commissione delle carte. Se vendi poco non lo sentirai; se vendi molto è un costo da conteggiare.
 
-**systeme.io** non è un builder di siti ma una piattaforma per vendere, con dentro pagine, email, corsi e pagamenti. Il piano Free include 2.000 contatti, 3 funnel, 1 corso, 1 blog, 1 dominio personalizzato e email illimitate. Lo Startup, 17 $/mese, sale a 5.000 contatti, 10 funnel e 5 corsi. Le pagine sono meno belle di Squarespace e più rigide di WordPress, ma se devi vendere una cosa e raccogliere email, lo fai gratis in un'ora.
+**[systeme.io](https://systeme.io/)** non è un builder di siti ma una piattaforma per vendere, con dentro pagine, email, corsi e pagamenti. Il piano Free include 2.000 contatti, 3 funnel, 1 corso, 1 blog, 1 dominio personalizzato e email illimitate. Lo Startup, 17 $/mese, sale a 5.000 contatti, 10 funnel e 5 corsi. Le pagine sono meno belle di Squarespace e più rigide di WordPress, ma se devi vendere una cosa e raccogliere email, lo fai gratis in un'ora.
 
 ## Raccogliere contatti e scrivere email
 
