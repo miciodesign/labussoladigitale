@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <div class="wrap hero-inner">
+    <div>
+      <p class="eyebrow">Guide pratiche in italiano</p>
+      <h1>Gli strumenti giusti <span>per lavorare e imparare.</span></h1>
+      <p class="lead">Guide pratiche in italiano per scegliere software, servizi e corsi senza perdere tempo. Partiamo da quello che devi fare, non dal catalogo.</p>
+      <div class="hero-cats">
+        {% for c in categories %}<a class="chip" href="{{ c.url }}">{{ c.name }}</a>{% endfor %}
+      </div>
+    </div>
+    <div class="hero-art" aria-hidden="true">
+      <svg viewBox="0 0 100 100" width="100%" role="img"><circle cx="50" cy="50" r="46" fill="var(--paper)" stroke="var(--ink)" stroke-width="4"/><circle cx="50" cy="50" r="32" fill="none" stroke="var(--line)" stroke-width="1.5"/><path d="M50 3v9M50 88v9M3 50h9M88 50h9" stroke="var(--ink)" stroke-width="3.5" stroke-linecap="round"/><path d="M50 16 L57 50 L43 50 Z" fill="var(--accent)"/><path d="M50 84 L57 50 L43 50 Z" fill="#9aa3b2"/><circle cx="50" cy="50" r="6" fill="var(--accent)"/><circle cx="50" cy="50" r="2.6" fill="var(--paper)"/></svg>
+    </div>
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>Da dove parti?</h2>
+    <p class="muted">Quattro ingressi, lo stesso metodo: dal bisogno allo strumento, con prezzi reali e un consiglio chiaro.</p>
+  </div>
+  <div class="cat-grid percorsi">
+    {% for p in percorsi %}
+    <a class="cat-card" href="{{ p.url }}">
+      <span class="cat-name">{{ p.name }}</span>
+      <span class="cat-short">{{ p.text }}</span>
+      <span class="cat-link">{{ p.cta }} →</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>Le sei sezioni</h2>
+    <p class="muted">Ogni sezione ha una guida di partenza e gli articoli di confronto che la approfondiscono.</p>
+  </div>
+  <div class="cat-grid">
+    {% for c in categories %}
+    <a class="cat-card" href="{{ c.pillar.url if c.pillar else c.url }}">
+      {% if c.pillar and c.pillar.image %}<img class="cat-img" src="{{ c.pillar.image }}" alt="" width="1200" height="700" loading="lazy">{% endif %}
+      <span class="cat-name">{{ c.name }}</span>
+      <span class="cat-short">{{ c.short }}</span>
+      {% if c.pillar %}<span class="cat-link">Leggi la guida di partenza →</span>{% else %}<span class="cat-link muted">Guida in arrivo</span>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+{% if articles %}
+<section class="wrap section">
+  <div class="section-head">
+    <h2>Ultimi articoli</h2>
+  </div>
+  <div class="post-list">
+    {% for a in articles[:9] %}
+    <article class="post-card">
+      {% if a.image %}<a href="{{ a.url }}"><img class="post-img" src="{{ a.image }}" alt="" width="1200" height="700" loading="lazy"></a>{% endif %}
+      <p class="post-cat"><a href="{{ a.category_obj.url }}">{{ a.category_obj.name }}</a> · {{ a.minutes }} min</p>
+      <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+      <p class="muted">{{ a.description }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="wrap section">
+  <div class="promise">
+    <h2>Come scegliamo quello che consigliamo</h2>
+    <div class="promise-grid">
+      <div><strong>Dal bisogno allo strumento.</strong><p class="muted">Ogni guida parte da una cosa che devi fare e arriva a due o tre strumenti consigliati, con prezzi aggiornati e una risposta chiara a "quale sceglierei al tuo posto".</p></div>
+      <div><strong>Prezzi veri, in euro.</strong><p class="muted">Indichiamo il costo reale per un forfettario, un professionista o una piccola società, non il prezzo di lancio in dollari. E aggiorniamo quando cambia.</p></div>
+      <div><strong>Trasparenti sui link.</strong><p class="muted">Alcuni link sono di affiliazione: se compri da lì riceviamo una commissione e tu non paghi niente in più. Se uno strumento non ci convince lo diciamo, anche se renderebbe. <a href="/trasparenza/">Come funziona</a>.</p></div>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="wrap section narrow">
+  <h1>Questa pagina non c'è: hai perso la rotta</h1>
+  <p class="lead">L'indirizzo che hai aperto non esiste. Prova da una di queste sezioni:</p>
+  <div class="hero-cats">
+    {% for c in categories %}<a class="chip" href="{{ c.url }}">{{ c.name }}</a>{% endfor %}
+  </div>
+  <p><a href="/">Torna alla home</a></p>
+</section>
+{% endblock %}

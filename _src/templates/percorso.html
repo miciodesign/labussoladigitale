@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="wrap section">
+  <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <span>{{ p.name }}</span></nav>
+  <h1>{{ p.name }}</h1>
+  <p class="lead">{{ p.text }}</p>
+</section>
+<section class="wrap">
+  <div class="article-body narrow">{{ p.body|safe }}</div>
+</section>
+<section class="wrap section">
+  <h2 class="h3">Le sezioni per te</h2>
+  <div class="cat-grid">
+    {% for c in p.sezioni_obj %}
+    <a class="cat-card" href="{{ c.pillar.url if c.pillar else c.url }}">
+      <span class="cat-name">{{ c.name }}</span>
+      <span class="cat-short">{{ c.short }}</span>
+      <span class="cat-link">{% if c.pillar %}Leggi la guida di partenza →{% else %}Vai alla sezione →{% endif %}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

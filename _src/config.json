@@ -1,0 +1,86 @@
+{
+  "name": "La Bussola Digitale",
+  "title": "La Bussola Digitale · Gli strumenti giusti per lavorare e imparare",
+  "description": "Guide pratiche in italiano per scegliere software, servizi e corsi. Per chi lavora in proprio, ha una piccola azienda o studia.",
+  "payoff": "Gli strumenti giusti per lavorare e imparare",
+  "site_url": "https://labussoladigitale.it",
+  "email": "redazione@labussoladigitale.it",
+  "instagram": "",
+  "linkedin": "",
+  "pinterest": "",
+  "amazon_tag": "",
+  "percorsi": [
+    {
+      "slug": "lavoro-in-proprio",
+      "name": "Lavoro in proprio",
+      "text": "Fatture, preventivi, clienti, sito: tutto quello che serve a una partita IVA per lavorare bene senza assumere nessuno.",
+      "cta": "Inizia da qui",
+      "sezioni": ["fatturare-e-incassare", "vendere-e-farsi-trovare", "organizzare-il-lavoro", "lavorare-con-l-ai"]
+    },
+    {
+      "slug": "piccola-azienda",
+      "name": "Ho una piccola azienda",
+      "text": "Strumenti per far lavorare insieme un team piccolo: CRM, automazioni, firma digitale, formazione interna.",
+      "cta": "Vedi gli strumenti",
+      "sezioni": ["vendere-e-farsi-trovare", "organizzare-il-lavoro", "fatturare-e-incassare", "lavorare-con-l-ai"]
+    },
+    {
+      "slug": "studio",
+      "name": "Studio",
+      "text": "App e servizi per studiare meglio e spendere meno: appunti, lingue, AI, corsi che valgono davvero.",
+      "cta": "Scopri cosa usare",
+      "sezioni": ["imparare", "lavorare-con-l-ai", "organizzare-il-lavoro"]
+    },
+    {
+      "slug": "imparare-qualcosa-di-nuovo",
+      "name": "Voglio imparare qualcosa di nuovo",
+      "text": "Corsi online, certificazioni e piattaforme per imparare un mestiere, una lingua o una competenza digitale.",
+      "cta": "Trova il corso",
+      "sezioni": ["imparare", "insegnare-quello-che-sai", "lavorare-con-l-ai"]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "fatturare-e-incassare",
+      "name": "Fatturare e incassare",
+      "short": "Fatturazione elettronica, conti business, POS, pagamenti online",
+      "description": "Software di fatturazione elettronica, conti business, POS e sistemi di pagamento online a confronto, con i costi reali per forfettari, professionisti e piccole società.",
+      "intro": "Aprire la partita IVA è il primo passo; il secondo è capire come fare le fatture elettroniche, dove tenere i soldi e come farsi pagare senza inseguire nessuno. Qui confrontiamo software di fatturazione, conti business, POS e sistemi di pagamento online, con i costi reali per un forfettario, un professionista in regime ordinario e una piccola società."
+    },
+    {
+      "slug": "vendere-e-farsi-trovare",
+      "name": "Vendere e farsi trovare",
+      "short": "Sito, email, CRM e tutto quello che porta clienti",
+      "description": "Come farsi un sito senza agenzia, raccogliere contatti, scrivere email che la gente apre e capire quando serve un CRM anche se lavori da solo.",
+      "intro": "Puoi essere bravissimo, ma se nessuno ti trova non lavori. In questa sezione parliamo di come farsi un sito senza un'agenzia, come raccogliere contatti e scrivere email che la gente apre, e quando ha senso un CRM anche se sei da solo. Strumenti scelti per chi ha poco tempo e poco budget, non per i reparti marketing."
+    },
+    {
+      "slug": "organizzare-il-lavoro",
+      "name": "Organizzare il lavoro",
+      "short": "Moduli, firma digitale, progetti, automazioni",
+      "description": "Firma digitale, moduli online, gestione dei progetti e automazioni che collegano un'app all'altra, spiegati per chi non è un tecnico.",
+      "intro": "Preventivi da firmare, moduli da far compilare, progetti da seguire, cose che si ripetono ogni settimana e che qualcuno dovrebbe fare al posto tuo. Qui trovi gli strumenti per la firma digitale, i moduli online, la gestione dei progetti e le automazioni che collegano un'app all'altra, spiegati per chi non è un tecnico."
+    },
+    {
+      "slug": "insegnare-quello-che-sai",
+      "name": "Insegnare quello che sai",
+      "short": "Piattaforme per vendere corsi, community e webinar",
+      "description": "Le piattaforme per creare e vendere corsi online, ospitare una community a pagamento e fare lezioni dal vivo, con i costi veri e i margini che restano.",
+      "intro": "Se sai fare bene una cosa, puoi insegnarla: un corso online, una community a pagamento, un ciclo di webinar. In questa sezione confrontiamo le piattaforme per creare e vendere corsi, ospitare una community e fare lezioni dal vivo, con i costi veri e i margini che ti restano in tasca."
+    },
+    {
+      "slug": "lavorare-con-l-ai",
+      "name": "Lavorare con l'AI",
+      "short": "Scrivere, trascrivere, fare video e risparmiare ore",
+      "description": "Quali strumenti di intelligenza artificiale valgono il canone e quali no, con esempi concreti per freelance, piccole aziende e studenti.",
+      "intro": "L'intelligenza artificiale fa risparmiare ore a chi la usa per le cose giuste: scrivere bozze, trascrivere riunioni, fare sottotitoli, creare immagini e video semplici. Qui raccontiamo quali strumenti valgono il canone e quali no, con esempi concreti di come li userebbe un freelance, una piccola azienda o uno studente."
+    },
+    {
+      "slug": "imparare",
+      "name": "Imparare",
+      "short": "Corsi, lingue e certificazioni che valgono il prezzo",
+      "description": "Corsi online, piattaforme per le lingue e certificazioni riconosciute: dove investire tempo e soldi per imparare qualcosa di nuovo.",
+      "intro": "Corsi online, piattaforme per le lingue, certificazioni che il mercato riconosce. In questa sezione aiutiamo a scegliere dove investire tempo e soldi per imparare qualcosa di nuovo, distinguendo tra quello che vale e quello che è solo un bel sito, con un occhio a chi studia e uno a chi deve aggiornarsi mentre lavora."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block ogtype %}article{% endblock %}
+{% block ogimage %}<meta property="og:image" content="{{ site_url }}{{ a.image_png if a.image_png else '/assets/og-default.png' }}">{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ a.title|tojson }},"description":{{ a.description|tojson }},"datePublished":"{{ a.date_iso }}","dateModified":"{{ a.updated_iso }}","inLanguage":"it-IT","author":{"@type":"Organization","name":"Redazione La Bussola Digitale","url":"{{ site_url }}/chi-siamo/"},"publisher":{"@type":"Organization","name":"La Bussola Digitale","url":"{{ site_url }}/"},"mainEntityOfPage":"{{ site_url }}{{ a.url }}"{% if a.image_png %},"image":"{{ site_url }}{{ a.image_png }}"{% endif %}}
+</script>
+{% endblock %}
+{% block content %}
+<article class="wrap article">
+  <header class="article-head">
+    <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <a href="{{ a.category_obj.url }}">{{ a.category_obj.name }}</a></nav>
+    <h1>{{ a.title }}</h1>
+    <p class="lead">{{ a.description }}</p>
+    <p class="meta">Redazione La Bussola Digitale · Aggiornato il {{ a.updated_human }} · {{ a.minutes }} minuti di lettura</p>
+    <p class="disclosure">Alcuni link in questa pagina sono di affiliazione: se compri tramite questi link riceviamo una piccola commissione, senza costi per te. <a href="/trasparenza/">Come funziona</a>.</p>
+  </header>
+
+  {% if a.image %}<figure class="hero-img"><img src="{{ a.image }}" alt="{{ a.title }}" width="1200" height="700" loading="eager"></figure>{% endif %}
+
+  <div class="article-grid">
+    {% if a.toc %}
+    <aside class="toc">
+      <p class="toc-title">In questa guida</p>
+      {{ a.toc|safe }}
+    </aside>
+    {% endif %}
+    <div class="article-body">
+      {{ a.body|safe }}
+    </div>
+  </div>
+
+  <footer class="article-foot">
+    <p class="small muted">I prezzi indicati sono quelli rilevati alla data di aggiornamento e possono cambiare: prima di abbonarti controlla sempre il prezzo sul sito del produttore. Hai trovato un errore o un prezzo vecchio? Scrivici a {{ site.email }}.</p>
+  </footer>
+</article>
+
+{% if related %}
+<section class="wrap section">
+  <h2 class="h3">Nella stessa sezione</h2>
+  <div class="post-list">
+    {% for r in related %}
+    <article class="post-card">
+      <p class="post-cat">{{ r.minutes }} min</p>
+      <h3><a href="{{ r.url }}">{{ r.title }}</a></h3>
+      <p class="muted">{{ r.description }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock %}
