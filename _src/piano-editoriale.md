@@ -9,6 +9,11 @@ Regole per chi scrive (persona o sistema automatico):
 - Disclosure: il template la inserisce in testa a ogni articolo; non ripeterla nel testo.
 - Illustrazione: per le guide di partenza creare un SVG schematico 1200x700 (palette: #f6f4ef fondo, #16213a inchiostro, #1f9d6a verde, #4fd1a5 verde chiaro, #e2e0d8 linee; font Outfit) e il PNG corrispondente.
 - Dopo la scrittura: `python3 _src/build.py`, controllo link interni, commit e push su main. Aggiornare lo stato qui sotto.
+- Controllo prezzi mensile (il 1° di ogni mese, attività pianificata separata): per ogni articolo pubblicato si riaprono le pagine ufficiali elencate in "Fonti e prezzi verificati" e si confrontano con i prezzi scritti nel testo. Se un prezzo è cambiato si correggono tabella, testo e sezione fonti, si aggiorna la data di rilevazione e si aggiunge `updated: AAAA-MM-GG` nel front matter (la data di pubblicazione resta quella originale). Se un prezzo non è più verificabile si scrive "prezzo non pubblicato". Se un prezzo è invariato si aggiorna solo la data di rilevazione nella sezione fonti. Niente articoli di news: le novità entrano nel sito solo come aggiornamenti delle guide esistenti; se in un mese cambiano i prezzi di almeno tre strumenti, si può pubblicare una nota breve (tipo I, 500-800 parole) "Cosa è cambiato nei prezzi: <mese anno>" che rimanda alle guide aggiornate. Il registro dei controlli è qui sotto.
+
+## Registro controlli prezzi
+
+- (nessun controllo ancora eseguito; primo controllo previsto il 1° novembre 2026)
 
 Stato: [ ] da scrivere · [x] pubblicato
 
