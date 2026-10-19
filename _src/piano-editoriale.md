@@ -30,6 +30,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 ## Coda, in ordine di pubblicazione (3 a settimana: lunedì, mercoledì, venerdì)
 
 - [x] 7 A Miglior software di fatturazione elettronica per forfettari · fatturare-e-incassare · pubblicato 2026-10-19
+- [ ] 7b A Lavorare in viaggio senza rischi: VPN ed eSIM a confronto (NordVPN, Surfshark o Proton VPN; Saily, Airalo, Holafly) · organizzare-il-lavoro · confronto onesto, non recensione di un solo prodotto; link ai produttori normali, i link affiliati li applica config.json
 - [ ] 8 A Email marketing per chi parte: MailerLite, Brevo, GetResponse a confronto · vendere-e-farsi-trovare
 - [ ] 9 A Moduli online: Tally, Typeform, Jotform a confronto · organizzare-il-lavoro
 - [ ] 10 A Thinkific, Teachable o systeme.io: dove vendere il primo corso · insegnare-quello-che-sai
