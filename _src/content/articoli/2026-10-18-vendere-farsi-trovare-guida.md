@@ -53,13 +53,13 @@ Per scegliere guarda tre numeri: quanti contatti puoi avere gratis, quante email
 
 | Strumento | Prezzo rilevato | Per chi | Attenzione a |
 | --- | --- | --- | --- |
-| MailerLite | Free: 250 iscritti, 2.500 email/mese. Comfort da 12 $/mese | Chi parte da zero e vuole uno strumento pulito | Il piano Free si esaurisce presto se la lista cresce |
+| [MailerLite](https://www.mailerlite.com/) | Free: 250 iscritti, 2.500 email/mese. Comfort da 12 $/mese | Chi parte da zero e vuole uno strumento pulito | Il piano Free si esaurisce presto se la lista cresce |
 | Brevo | Free: 300 email/giorno. Starter da 7 €/mese (5.000 email/mese, 500 contatti) | Chi ha già una lista grande e manda poco | Il limite giornaliero del Free è scomodo per le newsletter |
 | GetResponse | Nessun piano gratuito. Starter 19 $/mese mensile, 15,58 $/mese annuale | Chi vuole automazioni e webinar sotto lo stesso tetto | Prezzo in dollari; solo prova gratuita |
 
 Prezzi IVA esclusa, rilevati il 18 ottobre 2026.
 
-**MailerLite** è quello che consiglio a chi comincia. Il piano gratuito dà 250 iscritti, 2.500 email al mese e 2 utenti: abbastanza per i primi mesi. L'editor è semplice, i moduli si incollano su qualsiasi sito, e il passaggio al piano Comfort (da 12 $/mese, 10% in meno con fatturazione annuale; il listino si può vedere anche in euro, ma il prezzo che ho rilevato è in dollari) è indolore. Nel Comfort invii ogni mese 10 volte il limite della tua fascia di iscritti.
+**[MailerLite](https://www.mailerlite.com/)** è quello che consiglio a chi comincia. Il piano gratuito dà 250 iscritti, 2.500 email al mese e 2 utenti: abbastanza per i primi mesi. L'editor è semplice, i moduli si incollano su qualsiasi sito, e il passaggio al piano Comfort (da 12 $/mese, 10% in meno con fatturazione annuale; il listino si può vedere anche in euro, ma il prezzo che ho rilevato è in dollari) è indolore. Nel Comfort invii ogni mese 10 volte il limite della tua fascia di iscritti.
 
 **Brevo** ragiona al contrario: contatti illimitati, paghi in base alle email che mandi. Il piano Free ferma a 300 email al giorno: bene per una lista piccola, ma una newsletter a 1.000 persone la spedisci in quattro giorni. Lo Starter parte da 7 €/mese per 5.000 email al mese, con un tetto di 500 contatti in questa fascia, e toglie il logo Brevo. È l'unico dei tre con prezzi in euro pubblicati.
 
