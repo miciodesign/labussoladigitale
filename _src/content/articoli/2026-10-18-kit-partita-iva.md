@@ -69,6 +69,10 @@ Vale per tutti e tre: se sei forfettario, scegli il piano che non gestisce l'IVA
 
 Per la firma, **Youtrust** (il sito di Yousign oggi rimanda qui) ha un piano Free con 2 richieste di firma al mese e autofirma illimitata, e un piano One a 9 € + IVA al mese con 10 richieste. Fai firmare il preventivo accettato o il contratto senza stampare, e tieni traccia di chi ha firmato quando. Se firmi meno di due documenti al mese, non spendere nulla.
 
+### Le scadenze da non perdere
+
+Aperta la partita IVA, il calendario diventa parte del lavoro: IVA, F24, acconti, contributi. Teniamo una pagina aggiornata ogni mese con le date che contano e i promemoria non fiscali: [Scadenze del mese](/scadenze/).
+
 ### Sito, email e AI: dopo la prima settimana
 
 Un sito di una pagina e un'email con il tuo dominio ti fanno sembrare un'attività, non un hobby. Mettilo in agenda per il primo mese: le guide sono nella sezione [Vendere e farsi trovare](/vendere-e-farsi-trovare/). Per scrivere preventivi ed email ai clienti più in fretta, gli strumenti AI sono un vantaggio reale; come sceglierli lo trovi in [Lavorare con l'AI](/lavorare-con-l-ai/). Per clienti e scadenze, vedi [Organizzare il lavoro](/organizzare-il-lavoro/).
