@@ -42,6 +42,10 @@ Sulle commissioni Thinkific non trattiene una percentuale sul canone, ma attenzi
 
 Per il primo corso, 82-109 $ al mese sono tanti: Thinkific ha senso se hai già studenti paganti e vuoi quiz, compiti, certificati e una community nello stesso posto.
 
+## E un'opzione italiana: BusinessinCloud
+
+Se preferisci una piattaforma con assistenza, contratto e fatturazione italiani, esiste **[BusinessinCloud](https://businessincloud.co/it/)**, nata nel 2019 e pensata per coach, formatori e professionisti. Fa le stesse cose delle tre sopra (corsi, funnel, email, pagamenti) e in più integra la fatturazione elettronica italiana, cosa che le piattaforme americane non fanno. I piani partono da 29 € al mese (Startup: 2 corsi, 75 studenti, 500 contatti), poi 99 € (Pro: 20 corsi, 1.000 studenti, certificati, sistema di affiliazione) e 199 € (Advanced: corsi illimitati, webinar e lezioni dal vivo), senza commissioni sulle vendite; prova gratuita di 14 giorni senza carta. Prezzi rilevati il 28 ottobre 2026 da una fonte secondaria (recensione GetResponse, ottobre 2025): verificali sulla pagina prezzi ufficiale prima di decidere. Rispetto a systeme.io costa di più a parità di piano; il vantaggio è tutto in lingua, supporto e fattura italiana.
+
 ## Quanto ti resta: i conti su un corso da 149 €
 
 Due scenari, con la stessa ipotesi prudente della guida: il gestore dei pagamenti trattiene il 2,9% più 0,30 € a transazione, e l'abbonamento in dollari lo contiamo come se fosse in euro, per eccesso.
@@ -107,3 +111,4 @@ Prezzi, limiti e commissioni letti il 26 ottobre 2026 sulle pagine ufficiali.
 - Thinkific → https://www.thinkific.com/pricing/ (commissione di gateway per Stripe e PayPal non pubblicata sulla pagina)
 
 Come scegliamo e verifichiamo gli strumenti lo spieghiamo nella pagina [Trasparenza](/trasparenza/).
+- BusinessinCloud → https://www.getresponse.com/it/blog/businessincloud-recensioni (fonte secondaria; pagina prezzi ufficiale: https://businessincloud.co/it/prezzi)
