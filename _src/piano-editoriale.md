@@ -33,7 +33,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 7b A Lavorare in viaggio senza rischi: VPN ed eSIM a confronto (NordVPN, Surfshark o Proton VPN; Saily, Airalo, Holafly) · organizzare-il-lavoro · confronto onesto, non recensione di un solo prodotto; link ai produttori normali, i link affiliati li applica config.json · pubblicato 2026-10-21
 - [x] 8 A Email marketing per chi parte: MailerLite, Brevo, GetResponse a confronto · vendere-e-farsi-trovare · pubblicato 2026-10-23
 - [x] 10 A Thinkific, Teachable o systeme.io: dove vendere il primo corso · insegnare-quello-che-sai · pubblicato 2026-10-26
-- [ ] 9 A Moduli online: Tally, Typeform, Jotform a confronto · organizzare-il-lavoro
+- [x] 9 A Moduli online: Tally, Typeform, Jotform a confronto · organizzare-il-lavoro · pubblicato 2026-10-28
 - [ ] 11 A Trascrivere le riunioni con l'AI: Fireflies, tl;dv e alternative · lavorare-con-l-ai
 - [ ] 12 A Imparare l'inglese online: Babbel, Preply, italki a confronto · imparare
 - [ ] 13 A Conto business per partita IVA: Qonto, Wise, Revolut, Finom · fatturare-e-incassare
