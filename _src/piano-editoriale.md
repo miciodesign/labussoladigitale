@@ -34,7 +34,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 8 A Email marketing per chi parte: MailerLite, Brevo, GetResponse a confronto · vendere-e-farsi-trovare · pubblicato 2026-10-23
 - [x] 10 A Thinkific, Teachable o systeme.io: dove vendere il primo corso · insegnare-quello-che-sai · pubblicato 2026-10-26
 - [x] 9 A Moduli online: Tally, Typeform, Jotform a confronto · organizzare-il-lavoro · pubblicato 2026-10-28
-- [ ] 11 A Trascrivere le riunioni con l'AI: Fireflies, tl;dv e alternative · lavorare-con-l-ai
+- [x] 11 A Trascrivere le riunioni con l'AI: Fireflies, tl;dv e alternative · lavorare-con-l-ai · pubblicato 2026-10-30 (prezzi tl;dv non verificabili: pagina dinamica)
 - [ ] 12 A Imparare l'inglese online: Babbel, Preply, italki a confronto · imparare
 - [ ] 13 A Conto business per partita IVA: Qonto, Wise, Revolut, Finom · fatturare-e-incassare
 - [ ] 14 P Come fare un sito professionale senza agenzia in un weekend · vendere-e-farsi-trovare
