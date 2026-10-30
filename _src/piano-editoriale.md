@@ -36,16 +36,16 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 9 A Moduli online: Tally, Typeform, Jotform a confronto · organizzare-il-lavoro · pubblicato 2026-10-28
 - [x] 11 A Trascrivere le riunioni con l'AI: Fireflies, tl;dv e alternative · lavorare-con-l-ai · pubblicato 2026-10-30 (prezzi tl;dv non verificabili: pagina dinamica)
 - [ ] 12 A Imparare l'inglese online: Babbel, Preply, italki a confronto · imparare
+- [ ] 16 A Community a pagamento: Skool, Circle, Mighty Networks · insegnare-quello-che-sai
+- [ ] 22 P Come organizzare un webinar che vende · insegnare-quello-che-sai
 - [ ] 13 A Conto business per partita IVA: Qonto, Wise, Revolut, Finom · fatturare-e-incassare
 - [ ] 14 P Come fare un sito professionale senza agenzia in un weekend · vendere-e-farsi-trovare
 - [ ] 15 A Firma digitale dei contratti: PandaDoc, Yousign e alternative · organizzare-il-lavoro
-- [ ] 16 A Community a pagamento: Skool, Circle, Mighty Networks · insegnare-quello-che-sai
 - [ ] 17 A Sottotitoli e video brevi con l'AI: Submagic, Descript, InVideo · lavorare-con-l-ai
 - [ ] 18 A Coursera, edX, Udemy: quale piattaforma per quale obiettivo · imparare
 - [ ] 19 A POS per piccole attività: SumUp e alternative · fatturare-e-incassare
 - [ ] 20 A CRM per chi lavora da solo: HubSpot gratuito, Pipedrive e alternative · vendere-e-farsi-trovare
 - [ ] 21 A Automazioni senza codice: Make, Zapier e alternative · organizzare-il-lavoro
-- [ ] 22 P Come organizzare un webinar che vende · insegnare-quello-che-sai
 - [ ] 23 A Scrivere con l'AI: Jasper, Writesonic e quando basta ChatGPT · lavorare-con-l-ai
 - [ ] 24 A Corsi creativi online: Domestika e Skillshare a confronto · imparare
 - [ ] 25 P Preventivi: come farli, farli firmare e farli pagare · organizzare-il-lavoro
