@@ -3,6 +3,7 @@ title: Lavorare con l'AI senza perdere tempo: gli strumenti che servono davvero
 slug: lavorare-con-ai-guida
 category: lavorare-con-l-ai
 date: 2026-10-18
+updated: 2026-11-01
 description: Quale assistente AI scegliere, quando serve uno strumento specializzato e quanto costa davvero. Prezzi verificati e regole d'uso oneste.
 pillar: true
 ---
@@ -63,7 +64,7 @@ Un assistente generale non registra le riunioni al posto tuo, non monta video e 
 | Strumento | Prezzo rilevato | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Grammarly | Free; Pro 12 $/mese (prezzo rilevato il 18 ottobre 2026) | Chi scrive molto in inglese | Il valore vero è sull'inglese; per l'italiano un assistente generale fa lo stesso lavoro |
-| QuillBot | Free (parafrasi fino a 100 parole); Premium 8,33 $/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Studenti e chi deve riformulare testi in inglese | La pagina non mostra il prezzo con pagamento mensile |
+| QuillBot | Free (parafrasi fino a 125 parole); Premium 8,33 $/mese con pagamento annuale (prezzo rilevato il 1° novembre 2026) | Studenti e chi deve riformulare testi in inglese | La pagina non mostra il prezzo con pagamento mensile |
 | Jasper | Nessun piano gratuito, prova di 7 giorni; Pro 69 $/mese, o 59 $/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Team marketing con voce del brand e produzione costante | Caro per un singolo: ha senso solo se produci contenuti ogni giorno |
 | Writesonic | Nessun piano gratuito, solo prova; Starter 79 $/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Chi vuole monitorare come il proprio brand compare nelle risposte AI | Oggi è una piattaforma di visibilità sui motori AI, non più un semplice generatore di testi |
 
@@ -76,7 +77,7 @@ Qui la verità è scomoda: per scrivere e correggere in italiano, ChatGPT, Claud
 | [Submagic](https://submagic.co/) | Prova gratuita; Starter 19 €/mese, o 12 €/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026, prezzo in euro mostrato sul sito) | Chi pubblica video brevi sui social e vuole sottotitoli animati | Starter copre 15 video al mese da massimo 2 minuti |
 | Descript | Free (1 ora di media al mese, export 720p con filigrana); Hobbyist 16 $/mese con pagamento annuale, o 24 $/mese (prezzo rilevato il 18 ottobre 2026) | Chi monta podcast e video tagliando il testo della trascrizione | La pagina non etichetta in modo esplicito quale dei due prezzi è il mensile |
 | InVideo | Nessun piano gratuito indicato; Starter 20 $/mese, o 10 $/mese con pagamento annuale (prezzo rilevato il 18 ottobre 2026) | Chi vuole generare video da un testo per social e presentazioni | I limiti sono in crediti, non in minuti: difficile prevedere quanti video farai |
-| Synthesia | Basic gratuito (10 minuti); Starter 29 $/mese (prezzo rilevato il 18 ottobre 2026) | Formazione interna e video con avatar parlante | Starter arriva a circa 12 minuti al mese: poco per un uso frequente |
+| Synthesia | Basic gratuito (10 minuti); Starter 19 $/mese con pagamento mensile, primo mese 9 $ (prezzo rilevato il 1° novembre 2026; al 18 ottobre la pagina mostrava 29 $) | Formazione interna e video con avatar parlante | Starter aggiunge circa 12 minuti al mese ai 10 del gratuito: poco per un uso frequente |
 
 **Descript** è il più utile per chi lavora davvero con audio e video: tagli la registrazione come fosse un documento di testo. **[Submagic](https://submagic.co/)** fa una cosa sola, i sottotitoli per video brevi, e la fa in fretta. **Synthesia** serve a chi produce video formativi e non vuole mettersi davanti alla telecamera; se è il tuo caso, guarda anche la sezione [insegnare quello che sai](/insegnare-quello-che-sai/).
 
@@ -132,7 +133,7 @@ Gli assistenti generali sì, molto bene. Gli strumenti di trascrizione e correzi
 
 ## Fonti e prezzi verificati
 
-Pagine aperte il 18 ottobre 2026:
+Pagine aperte il 18 ottobre 2026 e riaperte il 1° novembre 2026 (prezzi rilevati il 1° novembre 2026). In questo controllo non siamo riusciti ad aprire le pagine prezzi di Writesonic, Chatbase e tl;dv: per questi tre le cifre restano quelle del 18 ottobre; per ChatGPT e Fireflies i prezzi sono confermati dal centro assistenza e dalla pagina prezzi del produttore.
 
 - OpenAI, ChatGPT → https://chatgpt.com/pricing/ (le cifre non erano visibili nella pagina) e https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus
 - Anthropic, Claude → https://claude.com/pricing

@@ -3,6 +3,7 @@ title: Thinkific, Teachable o systeme.io: dove vendere il primo corso
 slug: thinkific-teachable-systeme-io-primo-corso
 category: insegnare-quello-che-sai
 date: 2026-10-26
+updated: 2026-11-01
 description: Thinkific, Teachable e systeme.io a confronto per chi vende il primo corso online: prezzi verificati, commissioni e quanto ti resta su un corso da 149 €.
 pillar: false
 ---
@@ -16,7 +17,7 @@ Tutti i prezzi sono in dollari, perché i tre produttori li pubblicano così: in
 
 ## Il confronto in una tabella
 
-| Strumento | Prezzo rilevato (26 ottobre 2026) | Commissione piattaforma | Piano gratuito | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Commissione piattaforma | Piano gratuito | Attenzione a |
 | --- | --- | --- | --- | --- |
 | systeme.io | Free 0 $; Startup 17 $/mese; Webinar 47 $/mese; Unlimited 97 $/mese (annuale: 2 mesi gratis, importi non mostrati sulla pagina) | 0% su tutti i piani | Sì: 1 corso, 500 studenti, 2.000 contatti, 3 funnel | Interfaccia meno curata, player video essenziale |
 | Teachable | Starter 39 $/mese o 29 $/mese annuale; Builder 89 $/mese o 69 $/mese annuale; Growth 189 $/mese o 139 $/mese annuale | 7,5% sullo Starter; 0% da Builder in su (con Teachable Payments) | No; prova gratuita (la pagina indica 7 giorni in un punto e 30 in un altro) | Il 7,5% dello Starter, 5 prodotti al massimo |
@@ -44,7 +45,7 @@ Per il primo corso, 82-109 $ al mese sono tanti: Thinkific ha senso se hai già 
 
 ## E un'opzione italiana: BusinessinCloud
 
-Se preferisci una piattaforma con assistenza, contratto e fatturazione italiani, esiste **[BusinessinCloud](https://businessincloud.co/it/)**, nata nel 2019 e pensata per coach, formatori e professionisti. Fa le stesse cose delle tre sopra (corsi, funnel, email, pagamenti) e in più integra la fatturazione elettronica italiana, cosa che le piattaforme americane non fanno. I piani partono da 29 € al mese (Startup: 2 corsi, 75 studenti, 500 contatti), poi 99 € (Pro: 20 corsi, 1.000 studenti, certificati, sistema di affiliazione) e 199 € (Advanced: corsi illimitati, webinar e lezioni dal vivo), senza commissioni sulle vendite; prova gratuita di 14 giorni senza carta. Prezzi rilevati il 28 ottobre 2026 da una fonte secondaria (recensione GetResponse, ottobre 2025): verificali sulla pagina prezzi ufficiale prima di decidere. Rispetto a systeme.io costa di più a parità di piano; il vantaggio è tutto in lingua, supporto e fattura italiana.
+Se preferisci una piattaforma con assistenza, contratto e fatturazione italiani, esiste **[BusinessinCloud](https://businessincloud.co/it/)**, nata nel 2019 e pensata per coach, formatori e professionisti. Fa le stesse cose delle tre sopra (corsi, funnel, email, pagamenti) e in più integra la fatturazione elettronica italiana, cosa che le piattaforme americane non fanno. I piani, IVA esclusa, partono da 29 € al mese con pagamento annuale, 49 € con pagamento mensile (Basic: 10 prodotti, 200 studenti, 1.000 contatti), poi 99 € al mese o 82,50 € annuale (Pro: 30 prodotti, 1.000 studenti, 7.500 contatti) e 199 € al mese o 165,83 € annuale (Advanced: prodotti illimitati, 5.000 studenti, 25.000 contatti). Non è senza commissioni: la pagina prezzi indica una commissione del 4% sul Basic, 3% sul Pro e 2% sull'Advanced, più 0,25 € fissi per transazione. Prova gratuita di 7 giorni senza carta. Prezzi rilevati il 1° novembre 2026 sulla pagina prezzi ufficiale (la prima versione di questo paragrafo, del 28 ottobre, veniva da una fonte secondaria e riportava un piano "Startup" senza commissioni e una prova di 14 giorni: non corrisponde al listino attuale). Rispetto a systeme.io costa di più a parità di piano; il vantaggio è tutto in lingua, supporto e fattura italiana.
 
 ## Quanto ti resta: i conti su un corso da 149 €
 
@@ -104,11 +105,11 @@ Se vendi in modo continuativo, sì. Un corso in catalogo che chiunque può compr
 
 ## Fonti e prezzi verificati
 
-Prezzi, limiti e commissioni letti il 26 ottobre 2026 sulle pagine ufficiali.
+Prezzi, limiti e commissioni letti il 26 ottobre 2026 e ricontrollati il 1° novembre 2026 sulle pagine ufficiali (prezzi rilevati il 1° novembre 2026).
 
 - systeme.io → https://systeme.io/pricing (importi annuali non mostrati sulla pagina: "2 mesi gratis")
 - Teachable → https://teachable.com/pricing
 - Thinkific → https://www.thinkific.com/pricing/ (commissione di gateway per Stripe e PayPal non pubblicata sulla pagina)
+- BusinessinCloud → https://www.businessincloud.co/it/pricing (pagina prezzi ufficiale, letta il 1° novembre 2026; prezzi al netto dell'IVA)
 
 Come scegliamo e verifichiamo gli strumenti lo spieghiamo nella pagina [Trasparenza](/trasparenza/).
-- BusinessinCloud → https://www.getresponse.com/it/blog/businessincloud-recensioni (fonte secondaria; pagina prezzi ufficiale: https://businessincloud.co/it/prezzi)

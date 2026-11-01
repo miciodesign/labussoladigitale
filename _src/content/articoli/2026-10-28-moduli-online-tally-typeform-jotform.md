@@ -3,6 +3,7 @@ title: "Moduli online: Tally, Typeform, Jotform a confronto"
 slug: moduli-online-tally-typeform-jotform
 category: organizzare-il-lavoro
 date: 2026-10-28
+updated: 2026-11-01
 description: Tally, Typeform e Jotform a confronto per raccogliere richieste, preventivi e iscrizioni: prezzi verificati, limiti dei piani gratuiti e una scelta netta.
 pillar: false
 ---
@@ -16,10 +17,10 @@ Sulla valuta: Tally e Typeform pubblicano i prezzi in dollari; Jotform dichiara 
 
 ## Il confronto in una tabella
 
-| Strumento | Prezzo rilevato (28 ottobre 2026) | Risposte incluse | Piano gratuito | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Risposte incluse | Piano gratuito | Attenzione a |
 | --- | --- | --- | --- | --- |
 | Tally | Free 0 $; Pro 24 $/mese; Business 74 $/mese (annuale: "2 mesi gratis", importi non mostrati) | Illimitate su tutti i piani, entro un uso ragionevole | Sì, completo: moduli e invii illimitati, logica, calcoli, pagamenti, firme, upload fino a 10 MB per file | Marchio Tally e dominio personalizzato solo con Pro |
-| Typeform | Basic 39 $/mese o 28 $/mese annuale (468 $/anno); Plus 79 $ o 56 $ annuale; Business 129 $ o 91 $ annuale | Basic 100 al mese, Plus 1.000, Business 10.000 | Esiste, ma la pagina prezzi non ne dichiara i limiti | Cento risposte al mese finiscono in fretta; il marchio si toglie solo dal Plus |
+| Typeform | Basic 39 $/mese o 28 $/mese annuale (336 $/anno); Plus 79 $ o 56 $ annuale; Business 129 $ o 91 $ annuale | Basic 100 al mese, Plus 1.000, Business 10.000 | Esiste, ma la pagina prezzi non ne dichiara i limiti | Cento risposte al mese finiscono in fretta; il marchio si toglie solo dal Plus |
 | Jotform | Starter gratuito; piani a pagamento "a partire da 19 $ al mese"; Bronze, Silver e Gold: prezzo non pubblicato in modo leggibile | Non verificabili dalla pagina | Sì, con marchio Jotform; limiti non dichiarati nel testo della pagina | Listino caricato in modo dinamico: verifica nel carrello prima di pagare |
 
 ## Tally: il piano gratuito che basta davvero
@@ -32,7 +33,7 @@ Il limite di Tally è l'aspetto: moduli puliti, in stile documento. Belli, non s
 
 ## Typeform: il più curato, con il contatore delle risposte
 
-[Typeform](https://www.typeform.com/) ha inventato il modulo "una domanda alla volta", a schermo intero, che sul telefono sembra una conversazione: lo scelgono agenzie e consulenti per cui il modulo è parte dell'immagine. Il prezzo lo paghi sulle risposte: il Basic costa 39 $ al mese, 28 $ con pagamento annuale (468 $ in un anno), per un utente e 100 risposte al mese, con moduli illimitati, logica, webhook e integrazioni. Il Plus (79 $ al mese, 56 $ annuale) sale a 1.000 risposte e 3 utenti e toglie il marchio Typeform. Il Business (129 $, 91 $ annuale) arriva a 10.000 risposte, 5 utenti, tassi di abbandono e assistenza in chat.
+[Typeform](https://www.typeform.com/) ha inventato il modulo "una domanda alla volta", a schermo intero, che sul telefono sembra una conversazione: lo scelgono agenzie e consulenti per cui il modulo è parte dell'immagine. Il prezzo lo paghi sulle risposte: il Basic costa 39 $ al mese, 28 $ con pagamento annuale (336 $ in un anno; i 468 $ "total / yr" che la pagina mostra accanto sono dodici mesi al prezzo mensile), per un utente e 100 risposte al mese, con moduli illimitati, logica, webhook e integrazioni. Il Plus (79 $ al mese, 56 $ annuale) sale a 1.000 risposte e 3 utenti e toglie il marchio Typeform. Il Business (129 $, 91 $ annuale) arriva a 10.000 risposte, 5 utenti, tassi di abbandono e assistenza in chat.
 
 Due avvertenze lette sulla pagina. Esiste un piano gratuito, ma la pagina prezzi non ne dichiara né le risposte né le funzioni: non contarci finché non lo hai provato. E più in basso compare un secondo blocco con importi più bassi (Basic 29 $ mensili o 25 $ annuali, Plus 59 o 50, Business 99 o 83): non è chiaro quale listino sia in vigore, controlla la cifra nel carrello. Qui usiamo il blocco principale.
 
@@ -46,7 +47,7 @@ Quello che la pagina dice chiaramente: chi è in Europa paga in euro; i limiti r
 
 ## Quanto spendi in un anno: tre situazioni
 
-**Richieste di preventivo, 30-60 al mese.** Tally Free: 0 €. Typeform Basic annuale: 468 $. Jotform: dal gratuito con il marchio a un minimo di 228 $ all'anno, se il "da 19 $" vale per il Bronze mensile.
+**Richieste di preventivo, 30-60 al mese.** Tally Free: 0 €. Typeform Basic annuale: 336 $. Jotform: dal gratuito con il marchio a un minimo di 228 $ all'anno, se il "da 19 $" vale per il Bronze mensile.
 
 **Iscrizioni a un corso dal vivo, 300 risposte nel mese del lancio e poi quasi niente.** Tally: 0 $, o 24 $ nel mese in cui vuoi il tuo dominio. Typeform: il Basic si ferma a 100, quindi Plus a 79 $ per quel mese o 672 $ all'anno. Jotform: dipende da limiti che non abbiamo potuto leggere.
 
@@ -91,7 +92,7 @@ Sì, in un pomeriggio: le risposte si esportano in CSV da tutti e tre, il modulo
 
 ## Fonti e prezzi verificati
 
-Prezzi, limiti e funzioni letti il 28 ottobre 2026 sulle pagine ufficiali.
+Prezzi, limiti e funzioni letti il 28 ottobre 2026 e ricontrollati il 1° novembre 2026 sulle pagine ufficiali (prezzi rilevati il 1° novembre 2026; in questo controllo abbiamo corretto il totale annuale del Basic di Typeform, che è 336 $ e non 468 $).
 
 - Tally → https://tally.so/pricing (importo annuale non mostrato in cifre: "2 mesi gratis"); sede e conservazione dei dati → https://tally.so/help/gdpr
 - Typeform → https://www.typeform.com/pricing/ (la pagina mostra due blocchi di prezzi diversi; qui usiamo il blocco principale; limiti del piano gratuito non dichiarati)

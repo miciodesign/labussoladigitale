@@ -109,7 +109,7 @@ Se mandi link a privati e non vuoi configurare nulla, SumUp al 2,50 per cento. S
 
 ## Fonti e prezzi verificati
 
-Prezzi rilevati il 18 ottobre 2026 sulle pagine ufficiali.
+Prezzi rilevati il 1° novembre 2026 sulle pagine ufficiali (prima rilevazione: 18 ottobre 2026). In questo controllo non siamo riusciti ad aprire le pagine prezzi di Fatturazione Italia, Revolut Business e Finom, né la pagina tariffe completa di Wise: per questi strumenti le cifre restano quelle del 18 ottobre.
 
 - Fatture in Cloud → https://www.fattureincloud.it/costo/
 - Aruba Fatturazione Elettronica → https://www.pec.it/fatturazione-elettronica.aspx

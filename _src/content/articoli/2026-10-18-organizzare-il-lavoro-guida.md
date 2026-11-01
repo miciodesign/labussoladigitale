@@ -3,6 +3,7 @@ title: "Organizzare il lavoro da soli o in pochi: firma, moduli, progetti, autom
 slug: organizzare-lavoro-guida
 category: organizzare-il-lavoro
 date: 2026-10-18
+updated: 2026-11-01
 description: Moduli per raccogliere richieste, firma digitale di preventivi e contratti, gestione progetti e automazioni senza codice. Prezzi verificati e scelte nette.
 pillar: true
 ---
@@ -22,7 +23,7 @@ Un quarto criterio vale solo per la firma: quando basta quella semplice e quando
 
 Un modulo ti evita le email "quanto costa?" senza dettagli: chiedi subito cosa serve, entro quando e con che budget.
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | [Tally](https://tally.so/) | Gratuito con moduli e invii illimitati; Pro 24 $/mese | Chi vuole partire gratis senza limiti di risposte | Prezzi solo in dollari; il branding si toglie solo con Pro |
 | Typeform | Basic 28 $/mese annuale (39 $ mensile), 100 risposte al mese | Chi vuole un modulo bello da vedere, una domanda alla volta | Il limite di risposte è basso e il salto di piano è costoso |
@@ -40,7 +41,7 @@ Mandare un PDF e aspettare che il cliente lo stampi, firmi e scansioni è il mod
 
 Una riga su semplice e qualificata, senza fare consulenza legale: la firma elettronica semplice (via email con codice OTP, offerta da tutti gli strumenti qui sotto) è quella che si usa normalmente per preventivi e contratti di servizio; la firma qualificata richiede un certificato rilasciato da un prestatore accreditato ed equivale per legge alla firma autografa, quindi serve per gli atti che richiedono la forma scritta forte. Nel dubbio su un contratto specifico, chiedi al commercialista o all'avvocato.
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Youtrust (ex Yousign) | Free 2 firme/mese; One 9 €/mese (108 €/anno); Plus 23 €/utente/mese annuale | Chi vuole prezzi in euro e un'azienda europea | Il piano One è per un solo utente e 10 richieste al mese |
 | PandaDoc | Free 5 documenti/mese; Starter 19 $/utente/mese annuale | Chi vuole preventivi e contratti con modelli e tracciamento | Prezzi in dollari; preventivi personalizzati solo da Business (49 $) |
@@ -56,18 +57,18 @@ Una riga su semplice e qualificata, senza fare consulenza legale: la firma elett
 
 Qui il rischio è scegliere troppo. Da solo devi vedere cosa consegnare, a chi e quando. In tre devi anche sapere chi fa cosa.
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Trello | Free fino a 10 bacheche e 10 collaboratori; Standard 5 $/utente/mese annuale (6 $ mensile) | Chi vuole una bacheca e basta | Senza automazioni avanzate diventa una lista di post-it |
 | Notion | Free per uso individuale; Plus 10 $/utente/mese | Chi vuole note, documenti e progetti in un posto solo | In team il piano Free limita i blocchi; richiede un minimo di disciplina |
-| ClickUp | Free Forever; Unlimited 7 $/utente/mese annuale (10 $ mensile) | Team di 2-5 che vuole tutto: task, tempo, Gantt, documenti | Curva di apprendimento ripida; listino in cambiamento |
+| ClickUp | Free Forever; Core 9 $/utente/mese con pagamento annuale (il piano Unlimited da 7 $ non è più pubblicato; prezzo mensile non esposto) | Team di 2-5 che vuole tutto: task, tempo, Gantt, documenti | Curva di apprendimento ripida; listino cambiato a ottobre 2026 |
 | monday.com | Free fino a 2 utenti e 3 bacheche; Basic 9 $/utente/mese annuale, minimo 3 utenti | Piccola azienda che vuole viste chiare e dashboard | Il minimo di 3 seat lo rende inutile da soli |
 
 **Trello** è la bacheca kanban per eccellenza. Il Free include 10 bacheche per workspace, 10 collaboratori, 250 comandi di automazione al mese e file fino a 10 MB. Lo Standard costa 5 $ per utente al mese annuale o 6 $ mensile, con bacheche illimitate e 1.000 comandi (dollari, rilevati il 18 ottobre 2026). Da solo o in due, il Free basta spesso per anni.
 
 **Notion** è uno spazio di lavoro: pagine, database, documenti, wiki. Il Free non ha limiti di pagine per chi lo usa da solo, con 10 ospiti, 7 giorni di cronologia e file fino a 5 MB. Il Plus costa 10 $ per membro al mese (sconto fino al 20% con pagamento annuale, dollari, rilevato il 18 ottobre 2026): toglie i limiti di blocchi in team, cronologia a 30 giorni, ospiti illimitati. È lo strumento giusto se oltre ai task devi tenere procedure, appunti dei clienti e documenti. Per usarlo con l'AI, vedi /lavorare-con-l-ai/.
 
-**ClickUp** cerca di sostituire tutto: task, documenti, lavagne, tempo, Gantt. Il Free Forever ha membri e task illimitati ma 60 MB di spazio e 5 spazi. L'Unlimited costa 7 $ per utente al mese annuale o 10 $ mensile (dollari, rilevato il 18 ottobre 2026) e toglie i limiti principali. Attenzione: più in basso nella stessa pagina compare una seconda griglia con un piano "Core" a 9 $ per utente al mese: il listino è in transizione, controlla al momento dell'acquisto.
+**ClickUp** cerca di sostituire tutto: task, documenti, lavagne, tempo, Gantt. Il Free Forever ha membri e task illimitati ma 60 MB di spazio e 5 spazi. Il piano di ingresso a pagamento è ora il Core, 9 $ per utente al mese con pagamento annuale (dollari, rilevato il 1° novembre 2026; la pagina non espone il prezzo con pagamento mensile), e toglie i limiti principali; sopra ci sono Business a 17 $ ed Enterprise su preventivo. Al 18 ottobre 2026 il piano di ingresso si chiamava Unlimited e costava 7 $ annuale o 10 $ mensile: non è più in listino, controlla al momento dell'acquisto.
 
 **monday.com** è il più "aziendale": tabelle colorate, viste calendario e timeline, dashboard. Il Free arriva a 2 utenti e 3 bacheche. Il Basic costa 9 $ per utente al mese annuale, lo Standard 12 $, il Pro 19 $ (dollari, IVA esclusa, rilevati il 18 ottobre 2026); i piani a pagamento partono da 3 utenti. Ha senso dalla piccola azienda in su, non da soli.
 
@@ -79,7 +80,7 @@ Un'automazione collega due strumenti: quando succede A in uno, fai B nell'altro.
 - Il cliente firma il preventivo su Youtrust o PandaDoc: l'automazione sposta la scheda nella colonna "Da fatturare" e crea una bozza di fattura nel tuo programma, se ha un'integrazione (vedi /fatturare-e-incassare/).
 - Ogni lunedì alle 8: l'automazione raccoglie i task in scadenza nella settimana e te li manda in un'unica email o messaggio.
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Zapier | Free 100 task/mese, solo due passaggi; Professional da 19,99 $/mese | Chi vuole la configurazione più semplice e più app collegate | Il Free non permette automazioni multi-passaggio; prezzi in dollari |
 | Make | Free 1.000 crediti/mese; piani a pagamento: prezzo non verificato | Chi vuole flussi più complessi a costo più basso | Più tecnico; la pagina prezzi non espone il listino in modo leggibile |
@@ -96,7 +97,7 @@ Consiglio: costruisci la prima automazione solo dopo aver fatto lo stesso passag
 
 **Lavori da solo.** Tally gratuito per le richieste, Youtrust One a 9 € al mese per i preventivi (o il Free, se firmi meno di due contratti al mese), Trello Free o Notion Free per i progetti, Make Free per collegare tutto. Spesa: 9 € al mese. Se arrivi a firmare più di dieci documenti al mese, passi a Youtrust Plus.
 
-**Team di 2-5 persone.** Tally Pro (24 $ al mese) per togliere il marchio e lavorare in più persone sui moduli, Youtrust Plus a 23 € per utente per chi firma davvero (non serve un posto per tutti), ClickUp Unlimited o Notion Plus per i progetti, Zapier Professional se chi configura le automazioni non è tecnico, altrimenti Make. Tieni d'occhio il costo per utente: è qui che il conto sale.
+**Team di 2-5 persone.** Tally Pro (24 $ al mese) per togliere il marchio e lavorare in più persone sui moduli, Youtrust Plus a 23 € per utente per chi firma davvero (non serve un posto per tutti), ClickUp Core o Notion Plus per i progetti, Zapier Professional se chi configura le automazioni non è tecnico, altrimenti Make. Tieni d'occhio il costo per utente: è qui che il conto sale.
 
 **Piccola azienda.** PandaDoc Business se produci preventivi ogni giorno, monday.com Standard o ClickUp Business per i progetti, Jotform se vuoi un unico strumento per moduli, pagamenti e firma. Prima di comprare, controlla se un tuo strumento ha già la funzione: molti gestionali di fatturazione includono preventivi e firma. Vedi anche /fatturare-e-incassare/kit-partita-iva/.
 
@@ -127,7 +128,7 @@ Mezza giornata per modulo, firma e bacheca, un'altra mezza per la prima automazi
 
 ## Fonti e prezzi verificati
 
-Prezzi rilevati il 18 ottobre 2026 aprendo le pagine ufficiali:
+Prezzi rilevati il 1° novembre 2026 aprendo le pagine ufficiali (prima rilevazione: 18 ottobre 2026). Jotform e Make non espongono le cifre dei piani a pagamento, come già indicato:
 
 - Tally → https://tally.so/pricing
 - Typeform → https://www.typeform.com/pricing/

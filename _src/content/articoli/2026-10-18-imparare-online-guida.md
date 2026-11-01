@@ -3,6 +3,7 @@ title: Imparare online nel 2026: piattaforme, lingue, certificazioni
 slug: imparare-online-guida
 category: imparare
 date: 2026-10-18
+updated: 2026-11-01
 description: Come capire se un corso online vale, quanto costano davvero Coursera, edX, Udemy, Babbel, Codecademy e simili, e cosa scegliere in base a chi sei.
 pillar: true
 ---
@@ -24,7 +25,7 @@ Prima di guardare il prezzo, controlla queste cinque cose. Bastano dieci minuti 
 
 ## Piattaforme generaliste
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Coursera | Coursera Plus 59 $/mese o 399 $/anno; prova 7 giorni sul mensile | Chi vuole certificati di università e aziende | Prezzi in dollari; il mensile a 59 $ conviene solo se studi tanto |
 | edX | Audit gratuito; certificato verificato da circa 50 $ a corso, professional certificate da circa 500 $ | Chi vuole corsi universitari e può fare senza certificato | Il gratis non include esercizi valutati né accesso illimitato |
@@ -46,18 +47,18 @@ Prima di guardare il prezzo, controlla queste cinque cose. Bastano dieci minuti 
 
 La regola è semplice. Un'app ti porta da zero a un A2 solido (capire frasi, ordinare al ristorante, leggere un'email semplice). Da lì in su, per parlare e scrivere davvero, serve una persona che ti corregga. Nessuna app, per quanto buona, sostituisce venti ore di conversazione con un insegnante.
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Duolingo | Versione base gratuita; prezzo di Super non verificabile dalla pagina pubblica | Chi parte da zero e vuole un'abitudine quotidiana | È un gioco: ottimo per la costanza, debole sulla conversazione |
 | Babbel | Prezzo non pubblicato in una pagina accessibile senza accesso | Chi vuole lezioni strutturate con grammatica spiegata | Promozioni continue sul "lifetime": controlla il prezzo nell'app prima di pagare |
-| Preply | Tariffe per lezione fissate dal singolo tutor (esempi in pagina da 27 a 100 $); lezione di prova da 25 o 50 minuti | Chi vuole un percorso con un insegnante stabile | I pacchetti si pagano in anticipo; se la prova non va, cambio tutor gratis o rimborso |
+| Preply | Tariffe per lezione fissate dal singolo tutor (esempi in pagina da 22 a 46 $); lezione di prova da 25 o 50 minuti | Chi vuole un percorso con un insegnante stabile | I pacchetti si pagano in anticipo; se la prova non va, cambio tutor gratis o rimborso |
 | italki | Tariffe per lezione fissate dal singolo insegnante (esempi in home da 7 a 20 $) | Chi vuole conversazione a basso costo e flessibile | Distingui "insegnanti professionisti" da "tutor della comunità" |
 
 **Duolingo** è gratuito e funziona: cinque minuti al giorno per sei mesi ti danno un vocabolario e un orecchio di base. La versione a pagamento Super toglie la pubblicità e i limiti di errori; il prezzo cambia per paese e per periodo ed è visibile solo dentro l'app, quindi non lo riporto. Il mio consiglio: usalo gratis, e se ti pesa la pubblicità valuta se quei soldi non siano meglio spesi in due lezioni con un insegnante.
 
 **Babbel** è più scuola e meno gioco: le lezioni spiegano la grammatica e seguono un programma. I prezzi sono dietro una pagina che richiede l'accesso e cambiano con promozioni continue (al 18 ottobre 2026 il sito spinge uno sconto sul piano "a vita"). Prima di comprare un lifetime, chiediti se tra tre anni studierai ancora quella lingua con quell'app.
 
-**Preply** e **italki** sono due mercati di insegnanti: scegli la persona, prenoti, paghi a lezione. Su Preply le lezioni di prova durano 25 o 50 minuti e se non ti trovi puoi cambiare tutor gratis o farti rimborsare; le tariffe le fissa ogni tutor e gli esempi mostrati in pagina vanno da 27 a 100 dollari a lezione. Su italki gli esempi in home partono da 7-20 dollari e la scelta è più ampia, con una differenza netta tra insegnanti certificati e tutor che fanno conversazione. Per il rapporto qualità-prezzo, italki vince; per chi vuole un percorso più guidato, Preply.
+**Preply** e **italki** sono due mercati di insegnanti: scegli la persona, prenoti, paghi a lezione. Su Preply le lezioni di prova durano 25 o 50 minuti e se non ti trovi puoi cambiare tutor gratis o farti rimborsare; le tariffe le fissa ogni tutor e gli esempi mostrati in pagina vanno da 22 a 46 dollari a lezione. Su italki gli esempi in home partono da 7-20 dollari e la scelta è più ampia, con una differenza netta tra insegnanti certificati e tutor che fanno conversazione. Per il rapporto qualità-prezzo, italki vince; per chi vuole un percorso più guidato, Preply.
 
 <div class="box" markdown="1">
 **La combinazione che funziona:** app gratuita ogni giorno per vocabolario e abitudine, più una lezione a settimana con un insegnante su italki o Preply per parlare. Costa meno di un abbonamento annuale a un'app premium e porta molto più lontano.
@@ -65,15 +66,15 @@ La regola è semplice. Un'app ti porta da zero a un A2 solido (capire frasi, ord
 
 ## Competenze digitali e programmazione
 
-| Strumento | Prezzo rilevato (18 ottobre 2026) | Per chi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Per chi | Attenzione a |
 | --- | --- | --- | --- |
 | Codecademy | Basic gratis; Plus 14,99 $/mese annuale (29,99 mensile); Pro 19,99 $/mese annuale (39,99 mensile) | Chi vuole imparare a programmare scrivendo codice dal primo minuto | Il mensile costa il doppio dell'annuale |
-| DataCamp | Basic gratis (primo capitolo di ogni corso); Premium 14 $/mese fatturato annualmente | Chi vuole dati, SQL, Python, Excel, Power BI | Il gratis è solo un assaggio |
+| DataCamp | Basic gratis (primo capitolo di ogni corso); Premium 28 $/mese fatturato annualmente | Chi vuole dati, SQL, Python, Excel, Power BI | Il gratis è solo un assaggio |
 | Certificati professionali Google (Coursera) | 49 $/mese dopo 7 giorni di prova (prezzo USA/Canada; altrove può essere più basso); inclusi in Coursera Plus | Chi cambia mestiere verso IT, dati, UX, project management | Il costo dipende da quanto ci metti: la stessa pagina stima meno di 300 $ in circa sei mesi |
 
 **Codecademy** ti fa scrivere codice nel browser dalla prima lezione, con correzione immediata. È il modo più rapido per capire se programmare ti piace. Il piano gratuito basta per le basi; Plus e Pro aggiungono percorsi completi, progetti e certificati. Paga l'annuale o non pagare: il mensile a 29,99 o 39,99 dollari non ha senso.
 
-**DataCamp** fa la stessa cosa per il mondo dei dati: SQL, Python, R, ma anche Excel e Power BI, che per un impiegato o un freelance valgono spesso di più. Premium costa 14 dollari al mese fatturati in una rata annuale. Il piano gratuito apre solo il primo capitolo di ogni corso: serve per provare, non per imparare.
+**DataCamp** fa la stessa cosa per il mondo dei dati: SQL, Python, R, ma anche Excel e Power BI, che per un impiegato o un freelance valgono spesso di più. Premium costa 28 dollari al mese fatturati in una rata annuale (era 14 dollari al 18 ottobre 2026: il prezzo è raddoppiato). Il piano gratuito apre solo il primo capitolo di ogni corso: serve per provare, non per imparare.
 
 I **certificati professionali Google** su Coursera (Data Analytics, IT Support, UX Design, Project Management, Cybersecurity, Digital Marketing) sono il miglior compromesso tra riconoscibilità e costo per chi cambia settore. Sono pensati per chi parte da zero, durano circa sei mesi a dieci ore a settimana e si pagano in abbonamento: più sei veloce, meno spendi. Il nome Google sul curriculum non ti assume da solo, ma il percorso ti lascia progetti concreti da mostrare. Se pensi di farne più di uno, Coursera Plus annuale costa meno. Per le competenze legate all'intelligenza artificiale trovi un approfondimento nella sezione [Lavorare con l'AI](/lavorare-con-l-ai/).
 
@@ -116,7 +117,7 @@ Fino al livello base sì, e costa molto meno. Oltre, no: la conversazione con un
 
 ## Fonti e prezzi verificati
 
-Tutti i prezzi sono stati rilevati il 18 ottobre 2026 aprendo le pagine seguenti. Dove la pagina non espone un prezzo, lo abbiamo scritto.
+Tutti i prezzi sono stati rilevati il 1° novembre 2026 aprendo le pagine seguenti (prima rilevazione: 18 ottobre 2026). Dove la pagina non espone un prezzo, lo abbiamo scritto. In questo controllo non siamo riusciti ad aprire le pagine di Udemy e italki: per questi due le indicazioni restano quelle del 18 ottobre.
 
 - Coursera → https://www.coursera.org/courseraplus (Coursera Plus 59 $/mese, 399 $/anno)
 - Coursera, certificati Google → https://www.coursera.org/professional-certificates/google-data-analytics (49 $/mese dopo 7 giorni di prova, USA/Canada)
@@ -126,7 +127,7 @@ Tutti i prezzi sono stati rilevati il 18 ottobre 2026 aprendo le pagine seguenti
 - Skillshare → https://www.skillshare.com/en/pricing (13,99 $/mese, 167,88 $/anno; prova 7 giorni)
 - Duolingo → https://www.duolingo.com/ (app base gratuita; prezzo di Super non esposto nella pagina pubblica)
 - Babbel → https://www.babbel.com/ (prezzi non esposti nella pagina pubblica accessibile)
-- Preply → https://preply.com/en/how-it-works (prova 25/50 minuti; cambio tutor gratis o rimborso; esempi 27-100 $ a lezione)
+- Preply → https://preply.com/en/how-it-works (prova 25/50 minuti; cambio tutor gratis o rimborso; esempi 22-46 $ a lezione)
 - italki → https://www.italki.com/ (esempi di tariffe da 7 a 20 $ a lezione)
 - Codecademy → https://www.codecademy.com/pricing (Plus 14,99 $/mese annuale, 29,99 mensile; Pro 19,99 $/mese annuale, 39,99 mensile)
-- DataCamp → https://www.datacamp.com/pricing (Premium 14 $/mese fatturato annualmente; Basic gratuito)
+- DataCamp → https://www.datacamp.com/pricing (Premium 28 $/mese fatturato annualmente; Basic gratuito)

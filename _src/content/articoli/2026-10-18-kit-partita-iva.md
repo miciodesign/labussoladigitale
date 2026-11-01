@@ -118,7 +118,7 @@ Sì. Le fatture già inviate restano nel Sistema di Interscambio e i principali 
 
 ## Fonti e prezzi verificati
 
-Tutti i prezzi sono stati rilevati il 18 ottobre 2026 sulle pagine ufficiali:
+Tutti i prezzi sono stati rilevati il 1° novembre 2026 sulle pagine ufficiali (prima rilevazione: 18 ottobre 2026). In questo controllo la pagina dei piani di Revolut Business non era apribile e la pagina tariffe completa di Wise non era leggibile: per questi due le cifre restano quelle del 18 ottobre.
 
 - Fatture in Cloud → https://www.fattureincloud.it/costo/
 - Aruba Fatturazione Elettronica → https://www.pec.it/fatturazione-elettronica.aspx

@@ -3,6 +3,7 @@ title: "Lavorare in viaggio senza rischi: VPN ed eSIM a confronto"
 slug: vpn-esim-lavorare-in-viaggio
 category: organizzare-il-lavoro
 date: 2026-10-21
+updated: 2026-11-01
 description: NordVPN, Surfshark e Proton VPN per il Wi-Fi degli hotel; Saily, Airalo e Holafly per i giga fuori dall'Europa. Prezzi verificati e una scelta netta.
 pillar: false
 ---
@@ -19,9 +20,9 @@ Una premessa: tutti e sei i siti ci hanno mostrato i prezzi in dollari, e così 
 
 ## VPN: il confronto in una tabella
 
-| Strumento | Prezzo rilevato (21 ottobre 2026) | Rinnovo | Dispositivi | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Rinnovo | Dispositivi | Attenzione a |
 | --- | --- | --- | --- | --- |
-| NordVPN Basic | 94,23 $ per 27 mesi (3,49 $/mese) · 65,88 $ per 12 mesi · 14,99 $/mese | 139,08 $/anno | 10 | Il rinnovo costa più del doppio della promozione |
+| NordVPN Basic | 94,23 $ per 27 mesi (3,49 $/mese) · 74,85 $ per 15 mesi (4,99 $/mese, promozione in corso; il 21 ottobre l'annuale era 65,88 $ per 12 mesi) · 14,99 $/mese | 139,08 $/anno | 10 | Il rinnovo costa più del doppio della promozione |
 | Surfshark Starter | 67,23 $ per 27 mesi (2,49 $/mese) | Non indicato in pagina | Illimitati | Prezzi di 1 mese e 1 anno non mostrati nella pagina prezzi |
 | Proton VPN Plus | 83,76 $ per 24 mesi (3,49 $/mese) | 83,88 $/anno | 10 | Il piano Free esiste ma ha 1 solo dispositivo e server scelti a caso |
 
@@ -29,7 +30,7 @@ Tutte e tre hanno 30 giorni di rimborso e app per Windows, Mac, iPhone e Android
 
 ### NordVPN: il più conosciuto, con il rinnovo da tenere d'occhio
 
-Il piano Basic di [NordVPN](https://nordvpn.com/it/pricing/) costa 3,49 dollari al mese per i primi 27 mesi (24 più 3 in regalo), cioè 94,23 dollari in un'unica soluzione. Il piano da un anno costa 65,88 dollari, il mensile 14,99. Copre 10 dispositivi e fa quello che chiedi a una VPN in viaggio: cifra il traffico sul Wi-Fi dell'hotel, blocca i siti pericolosi, ti lascia aprire i servizi italiani dall'estero. I piani Completo e Prime aggiungono password manager, spazio cloud e protezione dell'identità: non sono il motivo per cui compri una VPN.
+Il piano Basic di [NordVPN](https://nordvpn.com/it/pricing/) costa 3,49 dollari al mese per i primi 27 mesi (24 più 3 in regalo), cioè 94,23 dollari in un'unica soluzione. Il piano da un anno, al 1° novembre 2026, è in promozione a 74,85 dollari per 15 mesi (12 più 3 in regalo, 4,99 al mese); il 21 ottobre costava 65,88 dollari per 12 mesi, quindi se compri a promozione finita controlla di nuovo la cifra. Il mensile costa 14,99. Copre 10 dispositivi e fa quello che chiedi a una VPN in viaggio: cifra il traffico sul Wi-Fi dell'hotel, blocca i siti pericolosi, ti lascia aprire i servizi italiani dall'estero. I piani Completo e Prime aggiungono password manager, spazio cloud e protezione dell'identità: non sono il motivo per cui compri una VPN.
 
 Il contro è scritto in piccolo sotto il prezzo: alla scadenza il Basic si rinnova a 139,08 dollari l'anno. Segnati la data o paga la promozione e disattiva il rinnovo automatico il giorno stesso.
 
@@ -47,7 +48,7 @@ Regola pratica: sulle VPN il prezzo che conta è quello del terzo anno. NordVPN 
 
 ## eSIM: il confronto in una tabella (destinazione Stati Uniti)
 
-| Strumento | Prezzo rilevato (21 ottobre 2026) | Hotspot | Attenzione a |
+| Strumento | Prezzo rilevato (1° novembre 2026) | Hotspot | Attenzione a |
 | --- | --- | --- | --- |
 | Saily | 1 GB / 7 gg 3,99 $ · 5 GB / 30 gg 13,99 $ · 10 GB / 30 gg 22,99 $ · illimitato 15 gg 45,99 $ | Sì, senza limiti dichiarati | L'illimitato è 5 GB al giorno a piena velocità, poi 1 Mbps |
 | Airalo | Da 4,00 $ (1 GB / 7 gg) · illimitato 7 gg 25 $, 15 gg 46 $, 30 gg 68 $ | Non indicato nella pagina | I tagli intermedi a GB fissi non erano leggibili: verificali in app |
@@ -102,7 +103,7 @@ Dipende dal tuo regime e da come usi questi strumenti. Conserva le ricevute, che
 
 ## Fonti e prezzi verificati
 
-Prezzi rilevati il 21 ottobre 2026 sulle pagine ufficiali, mostrati in dollari come apparivano al momento della lettura; al checkout dall'Italia l'importo viene mostrato in euro, imposte incluse.
+Prezzi rilevati il 1° novembre 2026 sulle pagine ufficiali (prima rilevazione: 21 ottobre 2026), mostrati in dollari come apparivano al momento della lettura; al checkout dall'Italia l'importo viene mostrato in euro, imposte incluse. Il 1° novembre NordVPN e Surfshark mostravano promozioni "Black Friday" senza data di scadenza.
 
 - NordVPN → https://nordvpn.com/it/pricing/
 - Surfshark → https://surfshark.com/pricing

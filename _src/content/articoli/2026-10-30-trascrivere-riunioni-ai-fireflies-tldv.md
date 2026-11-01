@@ -94,7 +94,7 @@ Otter.ai lo dichiara in chiaro: 3 caricamenti in tutto nel Basic, 10 al mese nel
 
 ## Fonti e prezzi verificati
 
-Prezzi, limiti e funzioni letti il 30 ottobre 2026 sulle pagine ufficiali.
+Prezzi, limiti e funzioni letti il 30 ottobre 2026 e ricontrollati il 1° novembre 2026 sulle pagine ufficiali (prezzi rilevati il 1° novembre 2026; la pagina prezzi di tl;dv non era apribile neanche in questo controllo).
 
 - Fireflies → https://fireflies.ai/pricing (prezzi mostrati con pagamento annuale; cifre mensili non visibili nel testo della pagina) e https://fireflies.ai/ (lingue: "100+", italiano non nominato)
 - tl;dv → https://tldv.io/pricing (pagina caricata in modo dinamico: prezzi e limiti dei piani a pagamento non leggibili, prezzo non pubblicato) e https://tldv.io/ (piano "Free Forever", "30+ lingue" con italiano, Meet, Zoom e Teams)

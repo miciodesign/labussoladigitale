@@ -90,7 +90,7 @@ MailerLite permette di scegliere tra dollari ed euro; per GetResponse il numero 
 
 ## Fonti e prezzi verificati
 
-Prezzi e limiti letti il 23 ottobre 2026 sulle pagine ufficiali.
+Prezzi e limiti letti il 23 ottobre 2026 e ricontrollati il 1° novembre 2026 sulle pagine ufficiali: confermati per GetResponse. Le pagine prezzi di MailerLite e Brevo non erano apribili il 1° novembre: per questi due le cifre restano quelle del 23 ottobre.
 
 - MailerLite → https://www.mailerlite.com/pricing
 - Brevo → https://www.brevo.com/pricing/ (importi non visibili al momento della lettura: prezzo non pubblicato)

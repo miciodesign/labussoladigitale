@@ -92,7 +92,7 @@ No: con Fatture in Cloud e Fatturazione Italia cambi piano e tieni l'archivio, c
 
 ## Fonti e prezzi verificati
 
-Prezzi rilevati il 19 ottobre 2026 sulle pagine ufficiali, IVA esclusa dove non indicato diversamente.
+Prezzi rilevati il 1° novembre 2026 sulle pagine ufficiali (prima rilevazione: 19 ottobre 2026), IVA esclusa dove non indicato diversamente. In questo controllo la pagina prezzi di Fatturazione Italia non era apribile e il listino dei moduli aggiuntivi di Aruba non era leggibile: per questi le cifre restano quelle del 19 ottobre.
 
 - Fatture in Cloud → https://www.fattureincloud.it/costo/ e https://www.fattureincloud.it/forfettari/
 - Aruba Fatturazione Elettronica → https://www.aruba.it/listino-fatturazione-elettronica.aspx e https://www.pec.it/fatturazione-elettronica-regime-forfettario.aspx

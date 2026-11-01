@@ -13,7 +13,7 @@ Regole per chi scrive (persona o sistema automatico):
 
 ## Registro controlli prezzi
 
-- (nessun controllo ancora eseguito; primo controllo previsto il 1° novembre 2026)
+- 2026-11-01 · 78 strumenti controllati (13 articoli) · 7 prezzi cambiati: DataCamp (Premium 14→28 $), ClickUp (Unlimited 7 $ non più in listino → Core 9 $), Thinkific (Basic 40 $ → Start 82 $, guida sezione), LearnWorlds (Starter 24→44 $), BusinessinCloud (listino ufficiale: Basic 29 € annuale/49 € mensile, commissioni 4/3/2% + 0,25 €, prova 7 gg), Synthesia (Starter 29→19 $), NordVPN (annuale 65,88 $ → 74,85 $/15 mesi, promo) · corretti anche QuillBot (Free 100→125 parole), esempi Preply (22-46 $) e un nostro errore su Typeform Basic annuale (468→336 $) · 15 non verificabili: Fatturazione Italia, Revolut Business, Finom, Hostinger (IT), SiteGround (IT), MailerLite, Brevo, Writesonic, Chatbase, tl;dv, Udemy, italki, Duolingo, Jotform (pagina dinamica), Make (pagina dinamica) · pubblicata la nota "Cosa è cambiato nei prezzi: novembre 2026" (/insegnare-quello-che-sai/prezzi-novembre-2026/)
 
 Stato: [ ] da scrivere · [x] pubblicato
 

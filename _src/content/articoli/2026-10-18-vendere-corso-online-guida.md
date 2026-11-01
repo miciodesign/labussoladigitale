@@ -3,6 +3,7 @@ title: Vendere un corso online: piattaforme, costi, margini
 slug: vendere-corso-online-guida
 category: insegnare-quello-che-sai
 date: 2026-10-18
+updated: 2026-11-01
 description: Corso registrato, community o webinar? Piattaforme a confronto con prezzi verificati e un conto economico reale su un corso da 149 €.
 pillar: true
 ---
@@ -41,21 +42,21 @@ Tutti i prezzi qui sotto sono in dollari, perché i produttori li pubblicano cos
 | --- | --- | --- | --- |
 | **[systeme.io](https://systeme.io/)** | Piano Free (1 corso, 2.000 contatti); Startup 17 $/mese; 0% commissioni | Chi parte da zero | Interfaccia meno curata, player video basilare |
 | **Teachable** | Starter 29 $/mese (annuale) o 39 $/mese; 7,5% di commissione sul piano Starter; Builder 69 $/mese (annuale) con 0% | Chi vuole lo standard del settore | La commissione del 7,5% sul piano base |
-| **Thinkific** | Basic 40 $/mese (annuale) o 54 $/mese; prova 30 giorni, nessun piano gratuito | Chi vuole flessibilità sul design del corso | Commissione di gateway "variabile per piano" non pubblicata chiaramente |
+| **Thinkific** | Start 82 $/mese (annuale) o 109 $/mese; prova 30 giorni, nessun piano gratuito (il piano Basic da 40 $ non è più in listino) | Chi vuole flessibilità sul design del corso | Commissione di gateway "variabile per piano" non pubblicata chiaramente |
 | **Podia** | Mover 42 $/mese (solo fatturazione annuale pubblicata), 5% di commissione; Shaker 84 $/mese con 0% | Chi vende anche ebook, download, coaching | Niente piano mensile pubblicato |
-| **LearnWorlds** | Starter 24 $/mese (annuale) o 29 $/mese, 5 $ fissi per ogni iscrizione a pagamento; Pro Trainer 79 $/mese (annuale) con 0% | Chi vuole video interattivi e quiz avanzati | Il costo fisso per iscrizione pesa sui corsi economici |
+| **LearnWorlds** | Starter 44 $/mese (annuale) o 49 $/mese, 5 $ fissi per ogni iscrizione a pagamento; Pro Trainer 79 $/mese (annuale) con 0% | Chi vuole video interattivi e quiz avanzati | Il costo fisso per iscrizione pesa sui corsi economici |
 
-Prezzi rilevati il 18 ottobre 2026 sulle pagine ufficiali.
+Prezzi rilevati il 1° novembre 2026 sulle pagine ufficiali.
 
 **systeme.io** è l'unica con un piano gratuito vero, senza scadenza e senza carta. Ci metti un corso, costruisci la pagina di vendita, mandi email ai contatti, incassi con Stripe senza commissioni della piattaforma. Startup a 17 $ al mese porta a 5 corsi e 5.000 contatti. I contro: pagine dall'aspetto datato, player video basilare, supporto in inglese o francese. Per chi deve dimostrare a sé stesso che il corso vende, è il punto di partenza.
 
 **Teachable** è la piattaforma che tutti conoscono, con un flusso di acquisto pulito. Il problema è lo Starter: 7,5% su ogni vendita, oltre al gestore pagamenti. Diventa conveniente solo con Builder (69 $ al mese annuale) allo 0%. Il calcolo lo trovi sotto. Prova gratuita di 7 giorni (la pagina a tratti promette 30: verifica al momento).
 
-**Thinkific** ha il costruttore di corsi più flessibile dei cinque: moduli, quiz, compiti, community integrata. Niente piano gratuito, 30 giorni di prova, e il Basic a 40 $ al mese annuale è il più caro tra i piani di ingresso. Sulle commissioni con Stripe la pagina rimanda a un articolo di supporto: chiedi prima di aprire l'account.
+**Thinkific** ha il costruttore di corsi più flessibile dei cinque: moduli, quiz, compiti, community integrata. Niente piano gratuito, 30 giorni di prova, e lo Start a 82 $ al mese annuale (109 $ mensile) è di gran lunga il più caro tra i piani di ingresso: il vecchio Basic da 40 $ è sparito dal listino tra ottobre e novembre 2026. Sulle commissioni con Stripe la pagina rimanda a un articolo di supporto: chiedi prima di aprire l'account.
 
 **Podia** piace a chi vende più formati: corso, ebook, coaching, abbonamenti. Pubblica solo prezzi annuali (Mover 504 $ l'anno), quindi l'impegno è di dodici mesi. Il 5% del Mover sparisce su Shaker a 84 $ al mese.
 
-**LearnWorlds** è la più completa per la didattica: video con domande incorporate, certificati, percorsi. Sullo Starter trattiene 5 $ fissi per ogni iscrizione a pagamento: su un corso da 149 € incide poco, su uno da 29 € mangia un sesto del prezzo.
+**LearnWorlds** è la più completa per la didattica: video con domande incorporate, certificati, percorsi. Lo Starter è salito a 44 $ al mese annuale (49 $ mensile; era 24 $ al 18 ottobre 2026) e trattiene 5 $ fissi per ogni iscrizione a pagamento: su un corso da 149 € incide poco, su uno da 29 € mangia un sesto del prezzo.
 
 ## Piattaforme per community
 
@@ -65,7 +66,7 @@ Prezzi rilevati il 18 ottobre 2026 sulle pagine ufficiali.
 | **Circle** | Professional 89 $/mese (fatturazione annuale) con 2% di commissione; Business 199 $/mese con 1% | Chi ha già un pubblico e vuole un'esperienza curata | Costo di ingresso alto, prezzi solo annuali |
 | **Mighty Networks** | Launch 79 $/mese (950 $/anno) con 2%; Scale 179 $/mese con 1% | Chi vuole community, corsi ed eventi in un unico posto | Il piano di ingresso è comunque 79 $ |
 
-Prezzi rilevati il 18 ottobre 2026. Tutte offrono 14 giorni di prova.
+Prezzi rilevati il 1° novembre 2026. Tutte offrono 14 giorni di prova.
 
 **Skool** ha un solo formato: feed, aule, classifica. Semplice per i membri e per te. L'Hobby a 9 $ con il 10% di commissione è pensato per chi incassa poco; superati i 1.000 $ al mese di abbonamenti, il Pro a 99 $ con il 2,9% costa meno.
 
@@ -142,7 +143,7 @@ Dipende dal risultato che prometti, non dalle ore di video. Un corso da 29 € r
 
 ## Fonti e prezzi verificati
 
-Tutte le pagine sono state aperte il 18 ottobre 2026. I prezzi sono in dollari dove indicato dal produttore.
+Tutte le pagine sono state aperte il 18 ottobre 2026 e riaperte il 1° novembre 2026 (prezzi rilevati il 1° novembre 2026). I prezzi sono in dollari dove indicato dal produttore.
 
 - Thinkific → https://www.thinkific.com/pricing/
 - Teachable → https://teachable.com/pricing

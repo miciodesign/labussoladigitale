@@ -124,6 +124,8 @@ Non per forza. Un sito trovabile e una lista email funzionano senza. I social ai
 
 ## Fonti e prezzi verificati
 
+Prezzi rilevati il 18 ottobre 2026 e ricontrollati il 1° novembre 2026 sulle pagine ufficiali: confermati per Wix, Squarespace, systeme.io, GetResponse, HubSpot e Pipedrive. Le pagine italiane di Hostinger e SiteGround e le pagine prezzi di MailerLite e Brevo non erano apribili il 1° novembre: per questi quattro le cifre restano quelle del 18 ottobre.
+
 - Hostinger → https://www.hostinger.com/it/hosting-wordpress
 - SiteGround → https://it.siteground.com/hosting-wordpress
 - Wix → https://www.wix.com/upgrade/website
