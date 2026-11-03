@@ -54,3 +54,4 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [ ] 28 A Chatbot per Instagram e WhatsApp: Manychat e alternative · lavorare-con-l-ai
 - [ ] 29 A Correttori e parafrasi: Grammarly, QuillBot e quando servono · imparare
 - [ ] 30 P Come passare da Notion a un'alternativa che paga meglio il tuo tempo · organizzare-il-lavoro
+- [ ] 31 A Migliore eSIM per lavorare in viaggio: Stati Uniti, Europa, Asia (Saily, Airalo, Holafly a confronto per destinazione) · organizzare-il-lavoro · taglio lavoro in viaggio, non turismo; se disponibile citare il codice sconto Saily presente in config.json
