@@ -99,6 +99,13 @@
       "short": "Corsi, lingue e certificazioni che valgono il prezzo",
       "description": "Corsi online, piattaforme per le lingue e certificazioni riconosciute: dove investire tempo e soldi per imparare qualcosa di nuovo.",
       "intro": "Corsi online, piattaforme per le lingue, certificazioni che il mercato riconosce. In questa sezione aiutiamo a scegliere dove investire tempo e soldi per imparare qualcosa di nuovo, distinguendo tra quello che vale e quello che è solo un bel sito, con un occhio a chi studia e uno a chi deve aggiornarsi mentre lavora."
+    },
+    {
+      "slug": "sicurezza-digitale",
+      "name": "Sicurezza digitale",
+      "short": "Password, backup, VPN e antivirus per chi lavora in proprio",
+      "description": "Password manager, backup, VPN, antivirus e buone abitudini per proteggere dati, clienti e lavoro quando non hai un reparto IT.",
+      "intro": "Chi lavora in proprio o in una piccola azienda non ha un reparto IT, ma custodisce dati di clienti, fatture e accessi a conti e servizi. Qui spieghiamo in modo pratico come proteggerli: password manager, backup, autenticazione a due fattori, VPN e antivirus, con i prezzi verificati e una risposta chiara per ogni tipo di lettore."
     }
   ],
   "affiliate_links": {

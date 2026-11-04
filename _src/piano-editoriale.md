@@ -36,6 +36,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 9 A Moduli online: Tally, Typeform, Jotform a confronto · organizzare-il-lavoro · pubblicato 2026-10-28
 - [x] 11 A Trascrivere le riunioni con l'AI: Fireflies, tl;dv e alternative · lavorare-con-l-ai · pubblicato 2026-10-30 (prezzi tl;dv non verificabili: pagina dinamica)
 - [x] 12 A Imparare l'inglese online: Babbel, Preply, italki a confronto · imparare · pubblicato 2026-11-02 (Babbel: prezzo in euro non pubblicato, cifre dalla pagina USA)
+- [ ] 32 P Sicurezza digitale per chi lavora in proprio: password, backup, VPN e antivirus (guida di partenza) · sicurezza-digitale
 - [ ] 16 A Community a pagamento: Skool, Circle, Mighty Networks · insegnare-quello-che-sai
 - [ ] 22 P Come organizzare un webinar che vende · insegnare-quello-che-sai
 - [ ] 13 A Conto business per partita IVA: Qonto, Wise, Revolut, Finom · fatturare-e-incassare
@@ -55,3 +56,13 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [ ] 29 A Correttori e parafrasi: Grammarly, QuillBot e quando servono · imparare
 - [ ] 30 P Come passare da Notion a un'alternativa che paga meglio il tuo tempo · organizzare-il-lavoro
 - [ ] 31 A Migliore eSIM per lavorare in viaggio: Stati Uniti, Europa, Asia (Saily, Airalo, Holafly a confronto per destinazione) · organizzare-il-lavoro · taglio lavoro in viaggio, non turismo; se disponibile citare il codice sconto Saily presente in config.json
+- [ ] 33 A Il miglior password manager per freelance e piccoli team (NordPass, 1Password, Bitwarden: prezzi verificati) · sicurezza-digitale
+- [ ] 34 P Password manager gratuito o a pagamento? Quando conviene pagare · sicurezza-digitale
+- [ ] 35 A Backup dei dati per freelance: cloud, disco esterno o entrambi (confronto servizi) · sicurezza-digitale
+- [ ] 36 P Autenticazione a due fattori: come attivarla sugli account di lavoro · sicurezza-digitale
+- [ ] 37 P Come riconoscere una email di phishing e cosa fare se hai cliccato · sicurezza-digitale
+- [ ] 38 A VPN per lavorare da remoto: serve davvero e quale scegliere · sicurezza-digitale
+- [ ] 39 A Antivirus nel 2026: serve ancora quello a pagamento? (confronto) · sicurezza-digitale
+- [ ] 40 P Wi-Fi pubblico in viaggio o al bar: come proteggere il lavoro (linkare l'articolo VPN/eSIM) · sicurezza-digitale
+
+Regola per la sezione sicurezza-digitale: solo taglio pratico e personale; NIENTE NIS2, GDPR, obblighi normativi o adeguamenti aziendali; nessun riferimento a rifiuti/ambiente/PA. Prezzi solo da pagine ufficiali verificate, con data.

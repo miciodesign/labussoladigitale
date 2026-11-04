@@ -9,7 +9,7 @@ La Bussola Digitale è nata da una constatazione semplice: chi lavora in proprio
 
 Una cosa sola: guide pratiche in italiano che partono da un bisogno concreto, "devo fare i preventivi", "voglio vendere un corso", "cerco un modo per imparare l'inglese sul serio", e arrivano a due o tre strumenti consigliati, con prezzi aggiornati, pro e contro, e una risposta chiara alla domanda "quale sceglierei io al tuo posto".
 
-Le guide sono divise in sei sezioni: fatturare e incassare, vendere e farsi trovare, organizzare il lavoro, insegnare quello che sai, lavorare con l'AI, imparare. E in quattro percorsi, a seconda di chi sei: lavori in proprio, hai una piccola azienda, studi, vuoi imparare qualcosa di nuovo.
+Le guide sono divise in sette sezioni: fatturare e incassare, vendere e farsi trovare, organizzare il lavoro, insegnare quello che sai, lavorare con l'AI, imparare, sicurezza digitale. E in quattro percorsi, a seconda di chi sei: lavori in proprio, hai una piccola azienda, studi, vuoi imparare qualcosa di nuovo.
 
 ## Come ci sosteniamo
 
