@@ -63,6 +63,8 @@ Regola pratica: tieni la lista in un formato che puoi esportare in ogni momento 
 
 Se la newsletter serve a portarti clienti, il passo dopo è capire come seguirli: ne parliamo nella sezione sul CRM della [guida](/vendere-e-farsi-trovare/vendere-farsi-trovare-guida/). E se parti con la partita IVA, il [Kit](/fatturare-e-incassare/kit-partita-iva/) ti dice cosa mettere in piedi prima di tutto il resto.
 
+Se le email le scrivi con un assistente AI, leggi prima le [regole d'uso oneste nella guida a lavorare con l'AI](/lavorare-con-l-ai/lavorare-con-ai-guida/): una bozza va sempre riletta, soprattutto quando contiene prezzi o promesse.
+
 ## Errori da evitare
 
 - **Importare una rubrica senza consenso.** Avere l'email di un cliente non significa poterlo iscrivere a una newsletter. Chiedi sempre l'iscrizione e tieni traccia di quando e come è avvenuta.

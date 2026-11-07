@@ -82,6 +82,8 @@ Da questi importi togli ancora l'IVA, se la applichi, e le imposte del tuo regim
 
 In tutti i casi, la piattaforma non ti porta studenti. Gli studenti arrivano dalla lista email: come costruirla con uno strumento gratuito lo spieghiamo nel [confronto tra MailerLite, Brevo e GetResponse](/vendere-e-farsi-trovare/email-marketing-mailerlite-brevo-getresponse/).
 
+Per scrivere la pagina di vendita e le lezioni più in fretta puoi farti aiutare da un assistente AI: nella [guida a lavorare con l'AI](/lavorare-con-l-ai/lavorare-con-ai-guida/) trovi quale scegliere e cosa non delegargli.
+
 ## Errori da evitare
 
 - **Scegliere dal canone più basso.** Lo Starter di Teachable sembra il più economico a 29 $, ed è il più caro appena vendi: la percentuale pesa più del canone.

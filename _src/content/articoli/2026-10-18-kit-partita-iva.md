@@ -1,9 +1,10 @@
 ---
-title: Kit di partenza per chi apre partita IVA: gli strumenti essenziali
+title: Kit per chi apre partita IVA: gli strumenti da avere il primo mese
 slug: kit-partita-iva
 category: fatturare-e-incassare
 date: 2026-10-18
-description: La lista in ordine di priorità di cosa serve a chi apre partita IVA in Italia: fatturazione elettronica, conto, POS, preventivi e firma. Prezzi verificati.
+updated: 2026-11-07
+description: Cosa serve davvero a chi apre partita IVA in Italia, in ordine di priorità: fatturazione elettronica, conto, POS, preventivi e firma. Prezzi verificati e scelte nette.
 pillar: true
 ---
 Hai appena aperto la partita IVA, o stai per farlo, e ti trovi davanti a una lista infinita di cose "indispensabili". In realtà le cose che servono davvero il primo mese sono cinque, e le puoi mettere in piedi in un pomeriggio. Questa pagina le elenca in ordine di priorità, con uno o due strumenti consigliati per voce e il prezzo rilevato sulle pagine ufficiali il 18 ottobre 2026. Per le guide di approfondimento su ciascun tema vai alla sezione [Fatturare e incassare](/fatturare-e-incassare/).

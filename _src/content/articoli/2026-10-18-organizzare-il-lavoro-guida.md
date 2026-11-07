@@ -101,6 +101,8 @@ Consiglio: costruisci la prima automazione solo dopo aver fatto lo stesso passag
 
 **Piccola azienda.** PandaDoc Business se produci preventivi ogni giorno, monday.com Standard o ClickUp Business per i progetti, Jotform se vuoi un unico strumento per moduli, pagamenti e firma. Prima di comprare, controlla se un tuo strumento ha già la funzione: molti gestionali di fatturazione includono preventivi e firma. Vedi anche /fatturare-e-incassare/kit-partita-iva/.
 
+Le automazioni si legano bene agli strumenti AI per trascrivere e riassumere: il quadro degli strumenti che valgono il canone è nella [guida a lavorare con l'AI](/lavorare-con-l-ai/lavorare-con-ai-guida/).
+
 ## Errori da evitare
 
 - **Pagare per utente per chi non usa lo strumento.** Nella firma digitale serve un posto solo a chi invia. Nei progetti, usa gli ospiti o i viewer gratuiti dove esistono.

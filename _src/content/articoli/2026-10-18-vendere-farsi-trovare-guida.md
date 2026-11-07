@@ -97,6 +97,8 @@ Ordine consigliato: prima il modulo per raccogliere email, poi la pagina, poi il
 
 Se devi anche emettere fattura per quello che vendi, la parte amministrativa è nella sezione [/fatturare-e-incassare/](/fatturare-e-incassare/), con il [kit per la partita IVA](/fatturare-e-incassare/kit-partita-iva/).
 
+Per scrivere testi del sito e newsletter più in fretta, un assistente AI aiuta se lo usi bene: la [guida a lavorare con l'AI](/lavorare-con-l-ai/lavorare-con-ai-guida/) spiega come scegliere e cosa controllare.
+
 ## Errori da evitare
 
 - **Comprare quattro anni di hosting per un'idea di tre mesi.** Il prezzo promo di Hostinger è buono solo se il sito lo terrai davvero. Se stai provando, parti dal gratuito o da un impegno annuale.
