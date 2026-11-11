@@ -37,7 +37,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 11 A Trascrivere le riunioni con l'AI: Fireflies, tl;dv e alternative · lavorare-con-l-ai · pubblicato 2026-10-30 (prezzi tl;dv non verificabili: pagina dinamica)
 - [x] 12 A Imparare l'inglese online: Babbel, Preply, italki a confronto · imparare · pubblicato 2026-11-02 (Babbel: prezzo in euro non pubblicato, cifre dalla pagina USA)
 - [x] 32 P Sicurezza digitale per chi lavora in proprio: password, backup, VPN e antivirus (guida di partenza) · sicurezza-digitale · pubblicato 2026-11-09 (prezzi NordPass, Google One e Malwarebytes non verificabili: pagine dinamiche)
-- [ ] 16 A Community a pagamento: Skool, Circle, Mighty Networks · insegnare-quello-che-sai
+- [x] 16 A Community a pagamento: Skool, Circle, Mighty Networks · insegnare-quello-che-sai · pubblicato 2026-11-11 (Skool: importi annuali non mostrati; Circle: prezzo mensile non pubblicato)
 - [ ] 22 P Come organizzare un webinar che vende · insegnare-quello-che-sai
 - [ ] 13 A Conto business per partita IVA: Qonto, Wise, Revolut, Finom · fatturare-e-incassare
 - [ ] 14 P Come fare un sito professionale senza agenzia in un weekend · vendere-e-farsi-trovare
