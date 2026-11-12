@@ -108,6 +108,8 @@ Lo stesso ragionamento vale dentro Teachable: con Builder (69 $/mese annuale, 0%
 Da questi importi devi ancora togliere l'IVA, se la applichi, e le tasse del tuo regime fiscale. Un forfettario che incassa 2.870 € ne versa circa il 15% di imposta sostitutiva sul reddito imponibile più i contributi. Fai il conto prima di fissare il prezzo, non dopo.
 </div>
 
+Vuoi rifare il conto con il tuo prezzo e i tuoi iscritti? Usa il [calcolatore del margine di un corso online](/calcolatore-margine-corso-online/): mette in fila tutte le piattaforme di questa guida.
+
 ## Cosa sceglierei al tuo posto
 
 **Parti da zero, nessun pubblico.** Non pagare una piattaforma. Apri systeme.io sul piano Free, costruisci una pagina di vendita, fai due o tre lezioni dal vivo su Zoom gratuito (o Pro a 14,16 $ se superi i 40 minuti) a un prezzo basso. Se dieci persone pagano, registra il corso e caricalo nello stesso account. Hai speso zero per scoprire se funziona.

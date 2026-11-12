@@ -66,3 +66,5 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [ ] 40 P Wi-Fi pubblico in viaggio o al bar: come proteggere il lavoro (linkare l'articolo VPN/eSIM) · sicurezza-digitale
 
 Regola per la sezione sicurezza-digitale: solo taglio pratico e personale; NIENTE NIS2, GDPR, obblighi normativi o adeguamenti aziendali; nessun riferimento a rifiuti/ambiente/PA. Prezzi solo da pagine ufficiali verificate, con data.
+
+Strumenti interattivi: il calcolatore /calcolatore-margine-corso-online/ usa i prezzi nella tabella PIATTAFORME di _src/static/calcolatore-corsi.js (data in PREZZI_DATA). Quando il controllo mensile dei prezzi trova una variazione per systeme.io, Teachable, Thinkific, Podia o LearnWorlds, aggiornare anche quel file. Niente calcolatori fiscali.

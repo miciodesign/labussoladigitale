@@ -157,3 +157,11 @@ p{margin:0 0 1em}
 .percorsi .cat-link{color:#4fd1a5}
 .percorsi .cat-card:hover{border-color:var(--accent)}
 .hero .logo-img{max-width:360px}
+.calc{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;margin:1.4em 0}
+.calc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.calc label{display:flex;flex-direction:column;gap:6px;font-size:15px;font-weight:600}
+.calc input,.calc select{font:inherit;font-weight:400;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);width:100%;box-sizing:border-box}
+.calc-out table small{color:var(--muted);font-weight:400}
+.calc-out tr.best td{background:var(--sage-soft)}
+@media (max-width:600px){.calc-out .hide-s{display:none}.calc-out table{font-size:15px}}
+.calc-out table{display:table}

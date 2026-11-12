@@ -70,6 +70,8 @@ Nel primo scenario la differenza tra systeme.io e gli altri due è di 80-85 € 
 Da questi importi togli ancora l'IVA, se la applichi, e le imposte del tuo regime. Per capire cosa ti resta davvero e quando lo versi, parla con un commercialista; le date dei versamenti le tieni d'occhio nella pagina [Scadenze](/scadenze/).
 </div>
 
+Con numeri diversi dai nostri, il [calcolatore del margine di un corso online](/calcolatore-margine-corso-online/) rifà il confronto sul tuo prezzo e sul tuo numero di iscritti.
+
 ## Cosa sceglierei al tuo posto
 
 **Parti da zero, nessun pubblico, forfettario o aspirante tale.** systeme.io Free. Un corso, una pagina di vendita, le email di benvenuto e di lancio, incasso con Stripe. Passi allo Startup a 17 $ quando superi i 2.000 contatti o vuoi un secondo corso. Non hai pagato niente per scoprire se la gente compra.
