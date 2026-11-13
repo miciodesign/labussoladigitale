@@ -30,6 +30,10 @@ Tutte e tre hanno 30 giorni di rimborso e app per Windows, Mac, iPhone e Android
 
 ### NordVPN: il più conosciuto, con il rinnovo da tenere d'occhio
 
+<div class="box" markdown="1">
+**Offerta Black Friday NordVPN, letta il 13 novembre 2026.** Sulla pagina ufficiale la campagna va fino al 9 dicembre 2026: piano di 2 anni da 2,99 al mese, sconto fino al 78% e 3 mesi extra. Il prezzo più basso riguarda il piano Basic. Resta valida la regola di questa guida: guarda quanto costa il rinnovo e disattivalo subito dopo l'acquisto.
+</div>
+
 Il piano Basic di [NordVPN](https://nordvpn.com/it/pricing/) costa 3,49 dollari al mese per i primi 27 mesi (24 più 3 in regalo), cioè 94,23 dollari in un'unica soluzione. Il piano da un anno, al 1° novembre 2026, è in promozione a 74,85 dollari per 15 mesi (12 più 3 in regalo, 4,99 al mese); il 21 ottobre costava 65,88 dollari per 12 mesi, quindi se compri a promozione finita controlla di nuovo la cifra. Il mensile costa 14,99. Copre 10 dispositivi e fa quello che chiedi a una VPN in viaggio: cifra il traffico sul Wi-Fi dell'hotel, blocca i siti pericolosi, ti lascia aprire i servizi italiani dall'estero. I piani Completo e Prime aggiungono password manager, spazio cloud e protezione dell'identità: non sono il motivo per cui compri una VPN.
 
 Il contro è scritto in piccolo sotto il prezzo: alla scadenza il Basic si rinnova a 139,08 dollari l'anno. Segnati la data o paga la promozione e disattiva il rinnovo automatico il giorno stesso.
@@ -105,7 +109,7 @@ Dipende dal tuo regime e da come usi questi strumenti. Conserva le ricevute, che
 
 Prezzi rilevati il 1° novembre 2026 sulle pagine ufficiali (prima rilevazione: 21 ottobre 2026), mostrati in dollari come apparivano al momento della lettura; al checkout dall'Italia l'importo viene mostrato in euro, imposte incluse. Il 1° novembre NordVPN e Surfshark mostravano promozioni "Black Friday" senza data di scadenza.
 
-- NordVPN → https://nordvpn.com/it/pricing/
+- NordVPN → https://nordvpn.com/it/pricing/ · offerta Black Friday: https://nordvpn.com/black-friday/ (letta il 13 novembre 2026)
 - Surfshark → https://surfshark.com/pricing
 - Proton VPN → https://protonvpn.com/pricing
 - Saily (Stati Uniti) → https://saily.com/esim-united-states/
