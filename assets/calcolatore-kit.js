@@ -84,7 +84,7 @@
     var html = '<table><thead><tr><th>Strumento</th><th>All’anno</th><th>Al mese</th></tr></thead><tbody>' + righe +
       '<tr class="best"><td><strong>Totale</strong></td><td><strong>' + eur(tot) + '</strong></td><td><strong>' + eur(tot / 12) + '</strong></td></tr></tbody></table>';
     if (gratis.length) {
-      html += "<p>Per " + gratis.join(", ") + "): se ti basta, risparmi " + eur(risp) + " all’anno e il totale scende a " + eur(tot - risp) + ".</p>";
+      html += "<p>Per questi strumenti esiste un piano gratuito (" + gratis.join(", ") + "): se ti basta, risparmi " + eur(risp) + " all’anno e il totale scende a " + eur(tot - risp) + ".</p>";
     } else {
       html += "<p>Per gli strumenti che hai scelto non c'è un'alternativa gratuita nelle nostre guide: se vuoi confrontare, apri la guida di ciascuno.</p>";
     }
