@@ -82,6 +82,8 @@ Un sito di una pagina e un'email con il tuo dominio ti fanno sembrare un'attivit
 **Il kit minimo in cifre.** Forfettario che lavora da remoto con clienti italiani: Fatture in Cloud Forfettari (48 € + IVA il primo anno), Qonto Starter (0 €), SumUp Pagamenti via Link (solo 2,50% su quello che incassi), Tally Free, Youtrust Free. Spesa fissa il primo anno: meno di 60 € IVA inclusa.
 </div>
 
+Vuoi sapere quanto spenderesti con la tua combinazione di strumenti? Prova il [calcolatore del costo del kit](/quanto-costa-il-tuo-kit-di-strumenti/): scegli quelli che usi e vedi il totale al mese e all'anno.
+
 ## Cosa sceglierei al tuo posto
 
 **Forfettario, lavori da remoto, clienti italiani.** Fatture in Cloud piano Forfettari, Qonto Starter, link di pagamento SumUp, Tally gratuito. Quando i bonifici superano cinque al mese passi a Qonto Basic. Se vuoi spendere ancora meno e fai poche fatture, Aruba al posto di Fatture in Cloud.

@@ -103,6 +103,8 @@ Consiglio: costruisci la prima automazione solo dopo aver fatto lo stesso passag
 
 Le automazioni si legano bene agli strumenti AI per trascrivere e riassumere: il quadro degli strumenti che valgono il canone è nella [guida a lavorare con l'AI](/lavorare-con-l-ai/lavorare-con-ai-guida/).
 
+Per sommare i canoni degli strumenti che scegli, c'è il [calcolatore del costo del kit](/quanto-costa-il-tuo-kit-di-strumenti/).
+
 ## Errori da evitare
 
 - **Pagare per utente per chi non usa lo strumento.** Nella firma digitale serve un posto solo a chi invia. Nei progetti, usa gli ospiti o i viewer gratuiti dove esistono.
