@@ -39,6 +39,17 @@ Non sono scadenze di legge di novembre, ma sono le cose che chi lavora in propri
 - **Conservazione delle fatture elettroniche 2025.** Va completata entro il 2 febbraio 2027 (tre mesi dal termine di invio di Redditi). Novembre è il momento per verificare che il servizio di conservazione sia attivo: i software di fatturazione lo includono quasi sempre, il portale dell'Agenzia lo offre gratis su adesione. (Fonte: NT+ Fisco, Il Sole 24 Ore.)
 - **Cassetto fiscale.** Prima del 30 novembre, un giro su Fatture e Corrispettivi: lì trovi l'importo del bollo già calcolato dall'Agenzia per il trimestre, le fatture passive ricevute e gli F24 pagati.
 
+## Un contributo aperto: Voucher Cloud e Cybersecurity
+
+Dal 10 novembre 2026 è aperto uno sportello del Ministero delle Imprese e del Made in Italy per chi lavora in proprio o ha una piccola azienda. Riassunto verificato il 14 novembre 2026 sulle pagine ufficiali; per i dettagli conta solo il decreto, quindi leggilo prima di muoverti.
+
+- **Che cos'è.** Un contributo a fondo perduto del 50% delle spese ammissibili, fino a 20.000 euro, per servizi cloud e soluzioni di sicurezza informatica. La spesa minima è di 4.000 euro e la dotazione è di 150 milioni di euro.
+- **Chi può chiederlo.** PMI e lavoratori autonomi (liberi professionisti compresi). Serve una connessione internet con almeno 30 Mbps in download, dichiarata al momento della domanda.
+- **Quando.** La domanda si invia dalle 12:00 del 10 novembre 2026 alle 12:00 del 20 gennaio 2027. Le domande sono valutate in ordine cronologico, quindi lo sportello può chiudere prima se i fondi finiscono.
+- **Cose da sapere prima.** Si può presentare una sola domanda. Si accede con SPID, CIE o CNS e servono firma digitale e PEC attiva. Si acquista solo da fornitori iscritti all'elenco del Ministero. Le spese contano solo se sostenute dopo l'invio della domanda: non comprare prima. Gli abbonamenti devono durare almeno 24 mesi, e sono agevolati i primi 24.
+
+Non è una consulenza e non sappiamo se sei in regola: se ti interessa, parlane con il commercialista.
+
 ## Gli strumenti che aiutano
 
 Nessuno di questi adempimenti si fa a mano. Il software di fatturazione prepara l'F24 del bollo, segnala le scadenze e tiene la conservazione; il conto business separa le uscite fiscali da tutto il resto. Nel [Kit di partenza per chi apre partita IVA](/fatturare-e-incassare/kit-partita-iva/) trovi quelli che consigliamo e quanto costano; nella guida [Fatturare e incassare](/fatturare-e-incassare/fatturare-incassare-guida/) il confronto completo.
@@ -54,5 +65,7 @@ Lo scadenzario ufficiale dell'Agenzia delle Entrate è la fonte da controllare i
 - [Money.it, Esterometro 2026](https://www.money.it/esterometro-2026-come-funziona-e-soggetti-obbligati) e [Intrastat 2026](https://www.money.it/modello-intrastat-come-compilare-scadenze-novita-2026)
 - [NT+ Fisco, Conservazione fatture 2025](https://ntplusfisco.ilsole24ore.com/art/fatture-2025-termine-la-conservazione-digitale-slitta-febbraio-2027-AJGieZhB)
 - [Camera di Commercio della Basilicata, Rinnovo firma digitale](https://www.basilicata.camcom.it/print/577)
+- [MIMIT, Voucher Cloud & Cybersecurity](https://www.mimit.gov.it/it/incentivi/sostegno-alla-domanda-di-servizi-di-cloud-computing-e-cyber-security) e [FAQ ufficiali](https://www.mimit.gov.it/it/assistenza/domande-frequenti/sostegno-domanda-servizi-di-cloud-computing-e-cyber-security-risposta-alle-domande-frequenti-faq) (verificate il 14 novembre 2026)
+- [Invitalia, Voucher cloud e cybersecurity](https://www.invitalia.it/incentivi-e-strumenti/voucher-cloud-e-cybersecurity)
 
 *Prossimo aggiornamento: fine novembre, con le scadenze di dicembre 2026.*
