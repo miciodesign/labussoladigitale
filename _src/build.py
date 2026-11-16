@@ -57,6 +57,9 @@ def parse_front_matter(text: str) -> tuple[dict, str]:
         value = value.strip()
         if value.startswith("[") and value.endswith("]"):
             value = [v.strip().strip("'\"") for v in value[1:-1].split(",") if v.strip()]
+        elif len(value) >= 2 and value[0] == value[-1] and value[0] in "'\"":
+            # valori fra virgolette (stile YAML): le virgolette non fanno parte del testo
+            value = value[1:-1]
         meta[key.strip()] = value
     return meta, body.lstrip("\n")
 
