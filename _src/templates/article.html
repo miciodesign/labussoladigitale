@@ -9,7 +9,7 @@
 {% block content %}
 <article class="wrap article">
   <header class="article-head">
-    <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <a href="{{ a.category_obj.url }}">{{ a.category_obj.name }}</a></nav>
+    <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <a href="/{{ a.category_obj.slug }}/">{{ a.category_obj.name }}</a></nav>
     <h1>{{ a.title }}</h1>
     <p class="lead">{{ a.description }}</p>
     <p class="meta">Redazione La Bussola Digitale · Aggiornato il {{ a.updated_human }} · {{ a.minutes }} minuti di lettura</p>

@@ -58,7 +58,7 @@
     {% for a in articles[:9] %}
     <article class="post-card">
       {% if a.image %}<a href="{{ a.url }}"><img class="post-img" src="{{ a.image }}" alt="" width="1200" height="700" loading="lazy"></a>{% endif %}
-      <p class="post-cat"><a href="{{ a.category_obj.url }}">{{ a.category_obj.name }}</a> · {{ a.minutes }} min</p>
+      <p class="post-cat"><a href="/{{ a.category_obj.slug }}/">{{ a.category_obj.name }}</a> · {{ a.minutes }} min</p>
       <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
       <p class="muted">{{ a.description }}</p>
     </article>

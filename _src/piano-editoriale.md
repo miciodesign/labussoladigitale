@@ -41,7 +41,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 22 P Come organizzare un webinar che vende · insegnare-quello-che-sai · pubblicato 2026-11-13 (systeme.io: pagina prezzi non raggiungibile, rimandato alla guida; MailerLite: solo limiti Free e prezzo di partenza Comfort)
 - [x] 13 A Conto business per partita IVA: Qonto, Wise, Revolut, Finom · fatturare-e-incassare · pubblicato 2026-11-16 (Finom: pagine prezzi non raggiungibili, cifre del 18 ottobre dichiarate come non verificate; Revolut: IVA non specificata in pagina)
 - [x] 14 P Come fare un sito professionale senza agenzia in un weekend · vendere-e-farsi-trovare · pubblicato 2026-11-18 (SiteGround: solo listino USA in dollari, pagina italiana non raggiungibile; Wix: prezzi di riferimento in dollari; dominio .it Hostinger: listino in dollari)
-- [ ] 15 A Firma digitale dei contratti: PandaDoc, Yousign e alternative · organizzare-il-lavoro
+- [x] 15 A Firma digitale dei contratti: PandaDoc, Yousign e alternative · organizzare-il-lavoro · pubblicato 2026-11-20 (Yousign ora Youtrust, prezzi in euro verificati; DocuSign: solo pagina britannica in sterline, pagina italiana non raggiungibile; Dropbox Sign: prezzi a pagamento non pubblicati)
 - [ ] 17 A Sottotitoli e video brevi con l'AI: Submagic, Descript, InVideo · lavorare-con-l-ai
 - [ ] 18 A Coursera, edX, Udemy: quale piattaforma per quale obiettivo · imparare
 - [ ] 19 A POS per piccole attività: SumUp e alternative · fatturare-e-incassare
