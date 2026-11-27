@@ -44,7 +44,7 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 15 A Firma digitale dei contratti: PandaDoc, Yousign e alternative · organizzare-il-lavoro · pubblicato 2026-11-20 (Yousign ora Youtrust, prezzi in euro verificati; DocuSign: solo pagina britannica in sterline, pagina italiana non raggiungibile; Dropbox Sign: prezzi a pagamento non pubblicati)
 - [x] 17 A Sottotitoli e video brevi con l'AI: Submagic, Descript, InVideo · lavorare-con-l-ai · pubblicato 2026-11-23 (tutti i prezzi in dollari; Submagic non mostra più il listino in euro e non pubblica durata/limiti della prova; Descript e InVideo non etichettano quale cifra è il canone mensile; InVideo in promozione con rinnovo al doppio)
 - [x] 18 A Coursera, edX, Udemy: quale piattaforma per quale obiettivo · imparare · pubblicato 2026-11-25 (Coursera ed edX verificati, solo dollari, promo annuale Coursera Plus a 239,40 $ fino al 30 novembre; Udemy: nessun prezzo pubblicato, home e pagine corso non raggiungibili)
-- [ ] 19 A POS per piccole attività: SumUp e alternative · fatturare-e-incassare
+- [x] 19 A POS per piccole attività: SumUp, Nexi, myPOS e Satispay a confronto · fatturare-e-incassare · pubblicato 2026-11-27 (SumUp, Nexi e Satispay verificati; prezzi lettori SumUp e Nexi in promozione fino al 30 novembre/4 dicembre; myPOS: solo prezzo Go 2 e commissione "da 1,20%" dalla pagina prodotto, tabella commissioni e schede Flex/Sigma non raggiungibili)
 - [ ] 20 A CRM per chi lavora da solo: HubSpot gratuito, Pipedrive e alternative · vendere-e-farsi-trovare
 - [ ] 21 A Automazioni senza codice: Make, Zapier e alternative · organizzare-il-lavoro
 - [ ] 23 A Scrivere con l'AI: Jasper, Writesonic e quando basta ChatGPT · lavorare-con-l-ai
